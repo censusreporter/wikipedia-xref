@@ -1,3 +1,10 @@
+# don't put cached wikipedia pages in the repo
+wikipedia_cache
+
+
+
+
+# GitHub standard for python (below)
 *.py[cod]
 
 # C extensions
