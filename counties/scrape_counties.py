@@ -3,7 +3,11 @@
 # Census Reporter geoids for counties are of the form 05000USXXYYY
 # where XX is the 2-digit state FIPS code and YYY is the 3-digit county FIPS code. Together, these are unique nationwide.
 # 
-# 
+# Since Wikipedia has simple lists of all the US counties (and PR municipalities, which are the same Census sumlevel),
+# the process here is to build a dictionary from the Wikipedia pages that map from FIPS code to WP URL, then
+# to go through the Counties gazetteer to match them. The gazetteer is a little overkill, but it enables us to know
+# if any were omitted from the WP data. 
+#
 import unicodecsv
 import statestyle
 from lxml.html import fromstring
