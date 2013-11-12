@@ -29,6 +29,9 @@ def write_state_file():
         fips, url = parse_state_row(row)
         fips = '04000US' + fips
         writer.writerow([fips,url])
+    writer.writerow('04000US72','https://en.wikipedia.org/wiki/Puerto_Rico')
+    writer.writerow('04000US11','https://en.wikipedia.org/wiki/Washington,_D.C.')
+    
 
 def parse_state_row(row):
     tds = row.findall('td')
