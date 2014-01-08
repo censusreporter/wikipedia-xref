@@ -1,0 +1,930 @@
+geoid,name,link,csa
+31000US22500,"Florence, SC","http://en.wikipedia.org/wiki/Florence,_SC_Metropolitan_Statistical_Area",
+31000US21740,"Evanston, WY","http://en.wikipedia.org/wiki/Evanston,_WY_Micropolitan_Statistical_Area",
+31000US26940,"Indianola, MS","http://en.wikipedia.org/wiki/Indianola,_MS_Micropolitan_Statistical_Area",185
+31000US34340,"Mount Airy, NC","http://en.wikipedia.org/wiki/Mount_Airy,_NC_Micropolitan_Statistical_Area",268
+31000US18880,"Crestview-Fort Walton Beach-Destin, FL","http://en.wikipedia.org/wiki/Crestview-Fort_Walton_Beach-Destin,_FL_Metropolitan_Statistical_Area",
+31000US11820,"Astoria, OR","http://en.wikipedia.org/wiki/Astoria,_OR_Micropolitan_Statistical_Area",
+31000US48300,"Wenatchee, WA","http://en.wikipedia.org/wiki/Wenatchee,_WA_Metropolitan_Statistical_Area",
+31000US11540,"Appleton, WI","http://en.wikipedia.org/wiki/Appleton,_WI_Metropolitan_Statistical_Area",118
+31000US42180,"Santa Isabel, PR","http://en.wikipedia.org/wiki/Santa_Isabel,_PR_Micropolitan_Statistical_Area",434
+31000US35620,"New York-Newark-Jersey City, NY-NJ-PA","http://en.wikipedia.org/wiki/New_York-Newark-Jersey_City,_NY-NJ-PA_Metropolitan_Statistical_Area",408
+31000US11980,"Athens, TX","http://en.wikipedia.org/wiki/Athens,_TX_Micropolitan_Statistical_Area",206
+31000US49420,"Yakima, WA","http://en.wikipedia.org/wiki/Yakima,_WA_Metropolitan_Statistical_Area",
+31000US10100,"Aberdeen, SD","http://en.wikipedia.org/wiki/Aberdeen,_SD_Micropolitan_Statistical_Area",
+31000US36580,"Oneonta, NY","http://en.wikipedia.org/wiki/Oneonta,_NY_Micropolitan_Statistical_Area",
+31000US11380,"Andrews, TX","http://en.wikipedia.org/wiki/Andrews,_TX_Micropolitan_Statistical_Area",
+31000US42780,"Selinsgrove, PA","http://en.wikipedia.org/wiki/Selinsgrove,_PA_Micropolitan_Statistical_Area",146
+31000US39060,"Pottsville, PA","http://en.wikipedia.org/wiki/Pottsville,_PA_Micropolitan_Statistical_Area",
+31000US30420,"Lexington, NE","http://en.wikipedia.org/wiki/Lexington,_NE_Micropolitan_Statistical_Area",
+31000US11260,"Anchorage, AK","http://en.wikipedia.org/wiki/Anchorage,_AK_Metropolitan_Statistical_Area",
+31000US10580,"Albany-Schenectady-Troy, NY","http://en.wikipedia.org/wiki/Albany-Schenectady-Troy,_NY_Metropolitan_Statistical_Area",104
+31000US18420,"Corinth, MS","http://en.wikipedia.org/wiki/Corinth,_MS_Micropolitan_Statistical_Area",
+31000US27140,"Jackson, MS","http://en.wikipedia.org/wiki/Jackson,_MS_Metropolitan_Statistical_Area",298
+31000US39260,"Prineville, OR","http://en.wikipedia.org/wiki/Prineville,_OR_Micropolitan_Statistical_Area",140
+31000US28100,"Kankakee, IL","http://en.wikipedia.org/wiki/Kankakee,_IL_Metropolitan_Statistical_Area",176
+31000US22180,"Fayetteville, NC","http://en.wikipedia.org/wiki/Fayetteville,_NC_Metropolitan_Statistical_Area",246
+31000US16060,"Carbondale-Marion, IL","http://en.wikipedia.org/wiki/Carbondale-Marion,_IL_Metropolitan_Statistical_Area",
+31000US11180,"Ames, IA","http://en.wikipedia.org/wiki/Ames,_IA_Metropolitan_Statistical_Area",218
+31000US44460,"Steamboat Springs, CO","http://en.wikipedia.org/wiki/Steamboat_Springs,_CO_Micropolitan_Statistical_Area",525
+31000US32300,"Martinsville, VA","http://en.wikipedia.org/wiki/Martinsville,_VA_Micropolitan_Statistical_Area",
+31000US45020,"Sweetwater, TX","http://en.wikipedia.org/wiki/Sweetwater,_TX_Micropolitan_Statistical_Area",
+31000US44340,"Statesboro, GA","http://en.wikipedia.org/wiki/Statesboro,_GA_Micropolitan_Statistical_Area",496
+31000US40700,"Roseburg, OR","http://en.wikipedia.org/wiki/Roseburg,_OR_Micropolitan_Statistical_Area",
+31000US12700,"Barnstable Town, MA","http://en.wikipedia.org/wiki/Barnstable_Town,_MA_Metropolitan_Statistical_Area",148
+31000US48060,"Watertown-Fort Drum, NY","http://en.wikipedia.org/wiki/Watertown-Fort_Drum,_NY_Metropolitan_Statistical_Area",
+31000US24300,"Grand Junction, CO","http://en.wikipedia.org/wiki/Grand_Junction,_CO_Metropolitan_Statistical_Area",
+31000US45460,"Terre Haute, IN","http://en.wikipedia.org/wiki/Terre_Haute,_IN_Metropolitan_Statistical_Area",
+31000US30220,"Levelland, TX","http://en.wikipedia.org/wiki/Levelland,_TX_Micropolitan_Statistical_Area",352
+31000US19780,"Des Moines-West Des Moines, IA","http://en.wikipedia.org/wiki/Des_Moines-West_Des_Moines,_IA_Metropolitan_Statistical_Area",218
+31000US40380,"Rochester, NY","http://en.wikipedia.org/wiki/Rochester,_NY_Metropolitan_Statistical_Area",464
+31000US37220,"Pahrump, NV","http://en.wikipedia.org/wiki/Pahrump,_NV_Micropolitan_Statistical_Area",332
+31000US11140,"Americus, GA","http://en.wikipedia.org/wiki/Americus,_GA_Micropolitan_Statistical_Area",
+31000US37620,"Parkersburg-Vienna, WV","http://en.wikipedia.org/wiki/Parkersburg-Vienna,_WV_Metropolitan_Statistical_Area",425
+31000US14180,"Blytheville, AR","http://en.wikipedia.org/wiki/Blytheville,_AR_Micropolitan_Statistical_Area",
+31000US39340,"Provo-Orem, UT","http://en.wikipedia.org/wiki/Provo-Orem,_UT_Metropolitan_Statistical_Area",482
+31000US12660,"Baraboo, WI","http://en.wikipedia.org/wiki/Baraboo,_WI_Micropolitan_Statistical_Area",357
+31000US19300,"Daphne-Fairhope-Foley, AL","http://en.wikipedia.org/wiki/Daphne-Fairhope-Foley,_AL_Metropolitan_Statistical_Area",380
+31000US49740,"Yuma, AZ","http://en.wikipedia.org/wiki/Yuma,_AZ_Metropolitan_Statistical_Area",
+31000US11060,"Altus, OK","http://en.wikipedia.org/wiki/Altus,_OK_Micropolitan_Statistical_Area",
+31000US45140,"Tahlequah, OK","http://en.wikipedia.org/wiki/Tahlequah,_OK_Micropolitan_Statistical_Area",538
+31000US31060,"Los Alamos, NM","http://en.wikipedia.org/wiki/Los_Alamos,_NM_Micropolitan_Statistical_Area",106
+31000US37740,"Payson, AZ","http://en.wikipedia.org/wiki/Payson,_AZ_Micropolitan_Statistical_Area",
+31000US25740,"Helena, MT","http://en.wikipedia.org/wiki/Helena,_MT_Micropolitan_Statistical_Area",
+31000US21660,"Eugene, OR","http://en.wikipedia.org/wiki/Eugene,_OR_Metropolitan_Statistical_Area",
+31000US21840,"Fairfield, IA","http://en.wikipedia.org/wiki/Fairfield,_IA_Micropolitan_Statistical_Area",
+31000US17220,"Clarksburg, WV","http://en.wikipedia.org/wiki/Clarksburg,_WV_Micropolitan_Statistical_Area",
+31000US13540,"Bennington, VT","http://en.wikipedia.org/wiki/Bennington,_VT_Micropolitan_Statistical_Area",
+31000US37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","http://en.wikipedia.org/wiki/Philadelphia-Camden-Wilmington,_PA-NJ-DE-MD_Metropolitan_Statistical_Area",428
+31000US12980,"Battle Creek, MI","http://en.wikipedia.org/wiki/Battle_Creek,_MI_Metropolitan_Statistical_Area",310
+31000US43980,"Spencer, IA","http://en.wikipedia.org/wiki/Spencer,_IA_Micropolitan_Statistical_Area",
+31000US17380,"Cleveland, MS","http://en.wikipedia.org/wiki/Cleveland,_MS_Micropolitan_Statistical_Area",185
+31000US36700,"Orangeburg, SC","http://en.wikipedia.org/wiki/Orangeburg,_SC_Micropolitan_Statistical_Area",192
+31000US30280,"Lewisburg, TN","http://en.wikipedia.org/wiki/Lewisburg,_TN_Micropolitan_Statistical_Area",400
+31000US16700,"Charleston-North Charleston, SC","http://en.wikipedia.org/wiki/Charleston-North_Charleston,_SC_Metropolitan_Statistical_Area",
+31000US21060,"Elizabethtown-Fort Knox, KY","http://en.wikipedia.org/wiki/Elizabethtown-Fort_Knox,_KY_Metropolitan_Statistical_Area",350
+31000US13420,"Bemidji, MN","http://en.wikipedia.org/wiki/Bemidji,_MN_Micropolitan_Statistical_Area",
+31000US17980,"Columbus, GA-AL","http://en.wikipedia.org/wiki/Columbus,_GA-AL_Metropolitan_Statistical_Area",194
+31000US47940,"Waterloo-Cedar Falls, IA","http://en.wikipedia.org/wiki/Waterloo-Cedar_Falls,_IA_Metropolitan_Statistical_Area",
+31000US17860,"Columbia, MO","http://en.wikipedia.org/wiki/Columbia,_MO_Metropolitan_Statistical_Area",190
+31000US11680,"Arkansas City-Winfield, KS","http://en.wikipedia.org/wiki/Arkansas_City-Winfield,_KS_Micropolitan_Statistical_Area",556
+31000US26090,"Holland, MI","http://en.wikipedia.org/wiki/Holland,_MI_Micropolitan_Statistical_Area",266
+31000US22660,"Fort Collins, CO","http://en.wikipedia.org/wiki/Fort_Collins,_CO_Metropolitan_Statistical_Area",
+31000US16380,"Celina, OH","http://en.wikipedia.org/wiki/Celina,_OH_Micropolitan_Statistical_Area",338
+31000US15580,"Butte-Silver Bow, MT","http://en.wikipedia.org/wiki/Butte-Silver_Bow,_MT_Micropolitan_Statistical_Area",
+31000US32740,"Meadville, PA","http://en.wikipedia.org/wiki/Meadville,_PA_Micropolitan_Statistical_Area",240
+31000US27300,"Jacksonville, IL","http://en.wikipedia.org/wiki/Jacksonville,_IL_Micropolitan_Statistical_Area",522
+31000US41420,"Salem, OR","http://en.wikipedia.org/wiki/Salem,_OR_Metropolitan_Statistical_Area",440
+31000US43500,"Silver City, NM","http://en.wikipedia.org/wiki/Silver_City,_NM_Micropolitan_Statistical_Area",
+31000US47820,"Washington, NC","http://en.wikipedia.org/wiki/Washington,_NC_Micropolitan_Statistical_Area",274
+31000US36660,"Opelousas, LA","http://en.wikipedia.org/wiki/Opelousas,_LA_Micropolitan_Statistical_Area",318
+31000US23660,"Galesburg, IL","http://en.wikipedia.org/wiki/Galesburg,_IL_Micropolitan_Statistical_Area",
+31000US13900,"Bismarck, ND","http://en.wikipedia.org/wiki/Bismarck,_ND_Metropolitan_Statistical_Area",
+31000US34500,"Mount Vernon, IL","http://en.wikipedia.org/wiki/Mount_Vernon,_IL_Micropolitan_Statistical_Area",
+31000US46540,"Utica-Rome, NY","http://en.wikipedia.org/wiki/Utica-Rome,_NY_Metropolitan_Statistical_Area",
+31000US10700,"Albertville, AL","http://en.wikipedia.org/wiki/Albertville,_AL_Micropolitan_Statistical_Area",290
+31000US42900,"Seneca Falls, NY","http://en.wikipedia.org/wiki/Seneca_Falls,_NY_Micropolitan_Statistical_Area",464
+31000US27900,"Joplin, MO","http://en.wikipedia.org/wiki/Joplin,_MO_Metropolitan_Statistical_Area",309
+31000US18100,"Columbus, NE","http://en.wikipedia.org/wiki/Columbus,_NE_Micropolitan_Statistical_Area",
+31000US44860,"Sulphur Springs, TX","http://en.wikipedia.org/wiki/Sulphur_Springs,_TX_Micropolitan_Statistical_Area",206
+31000US22900,"Fort Smith, AR-OK","http://en.wikipedia.org/wiki/Fort_Smith,_AR-OK_Metropolitan_Statistical_Area",
+31000US23540,"Gainesville, FL","http://en.wikipedia.org/wiki/Gainesville,_FL_Metropolitan_Statistical_Area",264
+31000US38820,"Port Angeles, WA","http://en.wikipedia.org/wiki/Port_Angeles,_WA_Micropolitan_Statistical_Area",
+31000US46460,"Union City, TN-KY","http://en.wikipedia.org/wiki/Union_City,_TN-KY_Micropolitan_Statistical_Area",362
+31000US35900,"North Wilkesboro, NC","http://en.wikipedia.org/wiki/North_Wilkesboro,_NC_Micropolitan_Statistical_Area",
+31000US41900,"San Germán, PR","http://en.wikipedia.org/wiki/San_Germ%C3%A1n,_PR_Metropolitan_Statistical_Area",364
+31000US44900,"Summerville, GA","http://en.wikipedia.org/wiki/Summerville,_GA_Micropolitan_Statistical_Area",470
+31000US38380,"Plainview, TX","http://en.wikipedia.org/wiki/Plainview,_TX_Micropolitan_Statistical_Area",
+31000US31620,"Magnolia, AR","http://en.wikipedia.org/wiki/Magnolia,_AR_Micropolitan_Statistical_Area",
+31000US34020,"Morgan City, LA","http://en.wikipedia.org/wiki/Morgan_City,_LA_Micropolitan_Statistical_Area",318
+31000US20820,"Effingham, IL","http://en.wikipedia.org/wiki/Effingham,_IL_Micropolitan_Statistical_Area",
+31000US26020,"Hobbs, NM","http://en.wikipedia.org/wiki/Hobbs,_NM_Micropolitan_Statistical_Area",
+31000US23060,"Fort Wayne, IN","http://en.wikipedia.org/wiki/Fort_Wayne,_IN_Metropolitan_Statistical_Area",258
+31000US27100,"Jackson, MI","http://en.wikipedia.org/wiki/Jackson,_MI_Metropolitan_Statistical_Area",
+31000US38260,"Pittsburg, KS","http://en.wikipedia.org/wiki/Pittsburg,_KS_Micropolitan_Statistical_Area",
+31000US34180,"Moses Lake, WA","http://en.wikipedia.org/wiki/Moses_Lake,_WA_Micropolitan_Statistical_Area",393
+31000US29620,"Lansing-East Lansing, MI","http://en.wikipedia.org/wiki/Lansing-East_Lansing,_MI_Metropolitan_Statistical_Area",330
+31000US23140,"Frankfort, IN","http://en.wikipedia.org/wiki/Frankfort,_IN_Micropolitan_Statistical_Area",320
+31000US48940,"Wilmington, OH","http://en.wikipedia.org/wiki/Wilmington,_OH_Micropolitan_Statistical_Area",178
+31000US22620,"Forrest City, AR","http://en.wikipedia.org/wiki/Forrest_City,_AR_Micropolitan_Statistical_Area",368
+31000US33460,"Minneapolis-St. Paul-Bloomington, MN-WI","http://en.wikipedia.org/wiki/Minneapolis-St._Paul-Bloomington,_MN-WI_Metropolitan_Statistical_Area",378
+31000US33940,"Montrose, CO","http://en.wikipedia.org/wiki/Montrose,_CO_Micropolitan_Statistical_Area",
+31000US31300,"Lumberton, NC","http://en.wikipedia.org/wiki/Lumberton,_NC_Micropolitan_Statistical_Area",246
+31000US48620,"Wichita, KS","http://en.wikipedia.org/wiki/Wichita,_KS_Metropolitan_Statistical_Area",556
+31000US22540,"Fond du Lac, WI","http://en.wikipedia.org/wiki/Fond_du_Lac,_WI_Metropolitan_Statistical_Area",
+31000US45700,"Tifton, GA","http://en.wikipedia.org/wiki/Tifton,_GA_Micropolitan_Statistical_Area",
+31000US19180,"Danville, IL","http://en.wikipedia.org/wiki/Danville,_IL_Metropolitan_Statistical_Area",
+31000US11940,"Athens, TN","http://en.wikipedia.org/wiki/Athens,_TN_Micropolitan_Statistical_Area",174
+31000US28420,"Kennewick-Richland, WA","http://en.wikipedia.org/wiki/Kennewick-Richland,_WA_Metropolitan_Statistical_Area",
+31000US41820,"Sanford, NC","http://en.wikipedia.org/wiki/Sanford,_NC_Micropolitan_Statistical_Area",450
+31000US49260,"Woodward, OK","http://en.wikipedia.org/wiki/Woodward,_OK_Micropolitan_Statistical_Area",
+31000US10380,"Aguadilla-Isabela, PR","http://en.wikipedia.org/wiki/Aguadilla-Isabela,_PR_Metropolitan_Statistical_Area",
+31000US40980,"Saginaw, MI","http://en.wikipedia.org/wiki/Saginaw,_MI_Metropolitan_Statistical_Area",474
+31000US46860,"Vernal, UT","http://en.wikipedia.org/wiki/Vernal,_UT_Micropolitan_Statistical_Area",
+31000US23240,"Fredericksburg, TX","http://en.wikipedia.org/wiki/Fredericksburg,_TX_Micropolitan_Statistical_Area",
+31000US22380,"Flagstaff, AZ","http://en.wikipedia.org/wiki/Flagstaff,_AZ_Metropolitan_Statistical_Area",
+31000US11220,"Amsterdam, NY","http://en.wikipedia.org/wiki/Amsterdam,_NY_Micropolitan_Statistical_Area",104
+31000US39140,"Prescott, AZ","http://en.wikipedia.org/wiki/Prescott,_AZ_Metropolitan_Statistical_Area",
+31000US38500,"Plymouth, IN","http://en.wikipedia.org/wiki/Plymouth,_IN_Micropolitan_Statistical_Area",515
+31000US22260,"Fergus Falls, MN","http://en.wikipedia.org/wiki/Fergus_Falls,_MN_Micropolitan_Statistical_Area",
+31000US48260,"Weirton-Steubenville, WV-OH","http://en.wikipedia.org/wiki/Weirton-Steubenville,_WV-OH_Metropolitan_Statistical_Area",430
+31000US48540,"Wheeling, WV-OH","http://en.wikipedia.org/wiki/Wheeling,_WV-OH_Metropolitan_Statistical_Area",
+31000US22300,"Findlay, OH","http://en.wikipedia.org/wiki/Findlay,_OH_Micropolitan_Statistical_Area",248
+31000US28660,"Killeen-Temple, TX","http://en.wikipedia.org/wiki/Killeen-Temple,_TX_Metropolitan_Statistical_Area",
+31000US36840,"Ottawa, KS","http://en.wikipedia.org/wiki/Ottawa,_KS_Micropolitan_Statistical_Area",312
+31000US25900,"Hilo, HI","http://en.wikipedia.org/wiki/Hilo,_HI_Micropolitan_Statistical_Area",
+31000US39380,"Pueblo, CO","http://en.wikipedia.org/wiki/Pueblo,_CO_Metropolitan_Statistical_Area",444
+31000US39220,"Price, UT","http://en.wikipedia.org/wiki/Price,_UT_Micropolitan_Statistical_Area",
+31000US28140,"Kansas City, MO-KS","http://en.wikipedia.org/wiki/Kansas_City,_MO-KS_Metropolitan_Statistical_Area",312
+31000US43380,"Sidney, OH","http://en.wikipedia.org/wiki/Sidney,_OH_Micropolitan_Statistical_Area",212
+31000US40180,"Riverton, WY","http://en.wikipedia.org/wiki/Riverton,_WY_Micropolitan_Statistical_Area",
+31000US14620,"Bradford, PA","http://en.wikipedia.org/wiki/Bradford,_PA_Micropolitan_Statistical_Area",
+31000US48020,"Watertown-Fort Atkinson, WI","http://en.wikipedia.org/wiki/Watertown-Fort_Atkinson,_WI_Micropolitan_Statistical_Area",376
+31000US16100,"Carlsbad-Artesia, NM","http://en.wikipedia.org/wiki/Carlsbad-Artesia,_NM_Micropolitan_Statistical_Area",
+31000US44540,"Sterling, CO","http://en.wikipedia.org/wiki/Sterling,_CO_Micropolitan_Statistical_Area",
+31000US15860,"Cañon City, CO","http://en.wikipedia.org/wiki/Ca%C3%B1on_City,_CO_Micropolitan_Statistical_Area",444
+31000US48780,"Williston, ND","http://en.wikipedia.org/wiki/Williston,_ND_Micropolitan_Statistical_Area",
+31000US14780,"Brenham, TX","http://en.wikipedia.org/wiki/Brenham,_TX_Micropolitan_Statistical_Area",288
+31000US33740,"Monroe, LA","http://en.wikipedia.org/wiki/Monroe,_LA_Metropolitan_Statistical_Area",384
+31000US12620,"Bangor, ME","http://en.wikipedia.org/wiki/Bangor,_ME_Metropolitan_Statistical_Area",
+31000US22280,"Fernley, NV","http://en.wikipedia.org/wiki/Fernley,_NV_Micropolitan_Statistical_Area",456
+31000US28860,"Kirksville, MO","http://en.wikipedia.org/wiki/Kirksville,_MO_Micropolitan_Statistical_Area",
+31000US27540,"Jasper, IN","http://en.wikipedia.org/wiki/Jasper,_IN_Micropolitan_Statistical_Area",
+31000US36100,"Ocala, FL","http://en.wikipedia.org/wiki/Ocala,_FL_Metropolitan_Statistical_Area",
+31000US32580,"McAllen-Edinburg-Mission, TX","http://en.wikipedia.org/wiki/McAllen-Edinburg-Mission,_TX_Metropolitan_Statistical_Area",365
+31000US48140,"Wausau, WI","http://en.wikipedia.org/wiki/Wausau,_WI_Metropolitan_Statistical_Area",554
+31000US14140,"Bluefield, WV-VA","http://en.wikipedia.org/wiki/Bluefield,_WV-VA_Micropolitan_Statistical_Area",
+31000US47920,"Washington Court House, OH","http://en.wikipedia.org/wiki/Washington_Court_House,_OH_Micropolitan_Statistical_Area",198
+31000US49780,"Zanesville, OH","http://en.wikipedia.org/wiki/Zanesville,_OH_Micropolitan_Statistical_Area",198
+31000US39740,"Reading, PA","http://en.wikipedia.org/wiki/Reading,_PA_Metropolitan_Statistical_Area",428
+31000US39660,"Rapid City, SD","http://en.wikipedia.org/wiki/Rapid_City,_SD_Metropolitan_Statistical_Area",452
+31000US43300,"Sherman-Denison, TX","http://en.wikipedia.org/wiki/Sherman-Denison,_TX_Metropolitan_Statistical_Area",206
+31000US46020,"Truckee-Grass Valley, CA","http://en.wikipedia.org/wiki/Truckee-Grass_Valley,_CA_Micropolitan_Statistical_Area",472
+31000US45060,"Syracuse, NY","http://en.wikipedia.org/wiki/Syracuse,_NY_Metropolitan_Statistical_Area",532
+31000US11860,"Atchison, KS","http://en.wikipedia.org/wiki/Atchison,_KS_Micropolitan_Statistical_Area",312
+31000US24620,"Greeneville, TN","http://en.wikipedia.org/wiki/Greeneville,_TN_Micropolitan_Statistical_Area",
+31000US35580,"New Ulm, MN","http://en.wikipedia.org/wiki/New_Ulm,_MN_Micropolitan_Statistical_Area",359
+31000US25620,"Hattiesburg, MS","http://en.wikipedia.org/wiki/Hattiesburg,_MS_Metropolitan_Statistical_Area",
+31000US27020,"Iron Mountain, MI-WI","http://en.wikipedia.org/wiki/Iron_Mountain,_MI-WI_Micropolitan_Statistical_Area",
+31000US32900,"Merced, CA","http://en.wikipedia.org/wiki/Merced,_CA_Metropolitan_Statistical_Area",382
+31000US16740,"Charlotte-Concord-Gastonia, NC-SC","http://en.wikipedia.org/wiki/Charlotte-Concord-Gastonia,_NC-SC_Metropolitan_Statistical_Area",172
+31000US21020,"Elizabeth City, NC","http://en.wikipedia.org/wiki/Elizabeth_City,_NC_Micropolitan_Statistical_Area",545
+31000US18700,"Corvallis, OR","http://en.wikipedia.org/wiki/Corvallis,_OR_Metropolitan_Statistical_Area",440
+31000US33500,"Minot, ND","http://en.wikipedia.org/wiki/Minot,_ND_Micropolitan_Statistical_Area",
+31000US41760,"Sandpoint, ID","http://en.wikipedia.org/wiki/Sandpoint,_ID_Micropolitan_Statistical_Area",
+31000US15260,"Brunswick, GA","http://en.wikipedia.org/wiki/Brunswick,_GA_Metropolitan_Statistical_Area",
+31000US25060,"Gulfport-Biloxi-Pascagoula, MS","http://en.wikipedia.org/wiki/Gulfport-Biloxi-Pascagoula,_MS_Metropolitan_Statistical_Area",
+31000US17340,"Clearlake, CA","http://en.wikipedia.org/wiki/Clearlake,_CA_Micropolitan_Statistical_Area",
+31000US15780,"Camden, AR","http://en.wikipedia.org/wiki/Camden,_AR_Micropolitan_Statistical_Area",
+31000US42460,"Scottsboro, AL","http://en.wikipedia.org/wiki/Scottsboro,_AL_Micropolitan_Statistical_Area",174
+31000US16580,"Champaign-Urbana, IL","http://en.wikipedia.org/wiki/Champaign-Urbana,_IL_Metropolitan_Statistical_Area",
+31000US13500,"Bennettsville, SC","http://en.wikipedia.org/wiki/Bennettsville,_SC_Micropolitan_Statistical_Area",
+31000US12940,"Baton Rouge, LA","http://en.wikipedia.org/wiki/Baton_Rouge,_LA_Metropolitan_Statistical_Area",
+31000US30980,"Longview, TX","http://en.wikipedia.org/wiki/Longview,_TX_Metropolitan_Statistical_Area",346
+31000US16620,"Charleston, WV","http://en.wikipedia.org/wiki/Charleston,_WV_Metropolitan_Statistical_Area",170
+31000US17820,"Colorado Springs, CO","http://en.wikipedia.org/wiki/Colorado_Springs,_CO_Metropolitan_Statistical_Area",
+31000US15660,"Calhoun, GA","http://en.wikipedia.org/wiki/Calhoun,_GA_Micropolitan_Statistical_Area",122
+31000US45180,"Talladega-Sylacauga, AL","http://en.wikipedia.org/wiki/Talladega-Sylacauga,_AL_Micropolitan_Statistical_Area",142
+31000US47420,"Wahpeton, ND-MN","http://en.wikipedia.org/wiki/Wahpeton,_ND-MN_Micropolitan_Statistical_Area",244
+31000US42540,"Scranton--Wilkes-Barre--Hazleton, PA","http://en.wikipedia.org/wiki/Scranton%E2%80%93Wilkes-Barre%E2%80%93Hazleton,_PA_Metropolitan_Statistical_Area",
+31000US19980,"Dodge City, KS","http://en.wikipedia.org/wiki/Dodge_City,_KS_Micropolitan_Statistical_Area",
+31000US41980,"San Juan-Carolina-Caguas, PR","http://en.wikipedia.org/wiki/San_Juan-Carolina-Caguas,_PR_Metropolitan_Statistical_Area",490
+31000US27220,"Jackson, WY-ID","http://en.wikipedia.org/wiki/Jackson,_WY-ID_Micropolitan_Statistical_Area",
+31000US43780,"South Bend-Mishawaka, IN-MI","http://en.wikipedia.org/wiki/South_Bend-Mishawaka,_IN-MI_Metropolitan_Statistical_Area",515
+31000US27340,"Jacksonville, NC","http://en.wikipedia.org/wiki/Jacksonville,_NC_Metropolitan_Statistical_Area",
+31000US43340,"Shreveport-Bossier City, LA","http://en.wikipedia.org/wiki/Shreveport-Bossier_City,_LA_Metropolitan_Statistical_Area",
+31000US46340,"Tyler, TX","http://en.wikipedia.org/wiki/Tyler,_TX_Metropolitan_Statistical_Area",540
+31000US43420,"Sierra Vista-Douglas, AZ","http://en.wikipedia.org/wiki/Sierra_Vista-Douglas,_AZ_Metropolitan_Statistical_Area",
+31000US38300,"Pittsburgh, PA","http://en.wikipedia.org/wiki/Pittsburgh,_PA_Metropolitan_Statistical_Area",430
+31000US38860,"Portland-South Portland, ME","http://en.wikipedia.org/wiki/Portland-South_Portland,_ME_Metropolitan_Statistical_Area",438
+31000US17500,"Clewiston, FL","http://en.wikipedia.org/wiki/Clewiston,_FL_Micropolitan_Statistical_Area",
+31000US20700,"East Stroudsburg, PA","http://en.wikipedia.org/wiki/East_Stroudsburg,_PA_Metropolitan_Statistical_Area",408
+31000US30020,"Lawton, OK","http://en.wikipedia.org/wiki/Lawton,_OK_Metropolitan_Statistical_Area",
+31000US23500,"Gaffney, SC","http://en.wikipedia.org/wiki/Gaffney,_SC_Micropolitan_Statistical_Area",273
+31000US44940,"Sumter, SC","http://en.wikipedia.org/wiki/Sumter,_SC_Metropolitan_Statistical_Area",
+31000US31820,"Manitowoc, WI","http://en.wikipedia.org/wiki/Manitowoc,_WI_Micropolitan_Statistical_Area",
+31000US41860,"San Francisco-Oakland-Hayward, CA","http://en.wikipedia.org/wiki/San_Francisco-Oakland-Hayward,_CA_Metropolitan_Statistical_Area",488
+31000US36860,"Ottawa-Peru, IL","http://en.wikipedia.org/wiki/Ottawa-Peru,_IL_Micropolitan_Statistical_Area",176
+31000US18020,"Columbus, IN","http://en.wikipedia.org/wiki/Columbus,_IN_Metropolitan_Statistical_Area",294
+31000US38780,"Portales, NM","http://en.wikipedia.org/wiki/Portales,_NM_Micropolitan_Statistical_Area",188
+31000US18140,"Columbus, OH","http://en.wikipedia.org/wiki/Columbus,_OH_Metropolitan_Statistical_Area",198
+31000US45740,"Toccoa, GA","http://en.wikipedia.org/wiki/Toccoa,_GA_Micropolitan_Statistical_Area",
+31000US17660,"Coeur d'Alene, ID","http://en.wikipedia.org/wiki/Coeur_d%27Alene,_ID_Metropolitan_Statistical_Area",518
+31000US41940,"San Jose-Sunnyvale-Santa Clara, CA","http://en.wikipedia.org/wiki/San_Jose-Sunnyvale-Santa_Clara,_CA_Metropolitan_Statistical_Area",488
+31000US29660,"Laramie, WY","http://en.wikipedia.org/wiki/Laramie,_WY_Micropolitan_Statistical_Area",
+31000US42300,"Sault Ste. Marie, MI","http://en.wikipedia.org/wiki/Sault_Ste._Marie,_MI_Micropolitan_Statistical_Area",
+31000US38100,"Picayune, MS","http://en.wikipedia.org/wiki/Picayune,_MS_Micropolitan_Statistical_Area",406
+31000US46820,"Vermillion, SD","http://en.wikipedia.org/wiki/Vermillion,_SD_Micropolitan_Statistical_Area",512
+31000US17260,"Clarksdale, MS","http://en.wikipedia.org/wiki/Clarksdale,_MS_Micropolitan_Statistical_Area",
+31000US43320,"Show Low, AZ","http://en.wikipedia.org/wiki/Show_Low,_AZ_Micropolitan_Statistical_Area",
+31000US29060,"Laconia, NH","http://en.wikipedia.org/wiki/Laconia,_NH_Micropolitan_Statistical_Area",148
+31000US32940,"Meridian, MS","http://en.wikipedia.org/wiki/Meridian,_MS_Micropolitan_Statistical_Area",
+31000US47260,"Virginia Beach-Norfolk-Newport News, VA-NC","http://en.wikipedia.org/wiki/Virginia_Beach-Norfolk-Newport_News,_VA-NC_Metropolitan_Statistical_Area",545
+31000US29100,"La Crosse-Onalaska, WI-MN","http://en.wikipedia.org/wiki/La_Crosse-Onalaska,_WI-MN_Metropolitan_Statistical_Area",
+31000US32380,"Mason City, IA","http://en.wikipedia.org/wiki/Mason_City,_IA_Micropolitan_Statistical_Area",
+31000US31460,"Madera, CA","http://en.wikipedia.org/wiki/Madera,_CA_Metropolitan_Statistical_Area",260
+31000US45940,"Trenton, NJ","http://en.wikipedia.org/wiki/Trenton,_NJ_Metropolitan_Statistical_Area",408
+31000US31340,"Lynchburg, VA","http://en.wikipedia.org/wiki/Lynchburg,_VA_Metropolitan_Statistical_Area",
+31000US30900,"Logansport, IN","http://en.wikipedia.org/wiki/Logansport,_IN_Micropolitan_Statistical_Area",
+31000US45220,"Tallahassee, FL","http://en.wikipedia.org/wiki/Tallahassee,_FL_Metropolitan_Statistical_Area",533
+31000US35700,"Nogales, AZ","http://en.wikipedia.org/wiki/Nogales,_AZ_Micropolitan_Statistical_Area",536
+31000US12060,"Atlanta-Sandy Springs-Roswell, GA","http://en.wikipedia.org/wiki/Atlanta-Sandy_Springs-Roswell,_GA_Metropolitan_Statistical_Area",122
+31000US36780,"Oshkosh-Neenah, WI","http://en.wikipedia.org/wiki/Oshkosh-Neenah,_WI_Metropolitan_Statistical_Area",118
+31000US38540,"Pocatello, ID","http://en.wikipedia.org/wiki/Pocatello,_ID_Metropolitan_Statistical_Area",
+31000US46900,"Vernon, TX","http://en.wikipedia.org/wiki/Vernon,_TX_Micropolitan_Statistical_Area",
+31000US43740,"Somerset, PA","http://en.wikipedia.org/wiki/Somerset,_PA_Micropolitan_Statistical_Area",306
+31000US32980,"Merrill, WI","http://en.wikipedia.org/wiki/Merrill,_WI_Micropolitan_Statistical_Area",554
+31000US35380,"New Orleans-Metairie, LA","http://en.wikipedia.org/wiki/New_Orleans-Metairie,_LA_Metropolitan_Statistical_Area",406
+31000US42980,"Seymour, IN","http://en.wikipedia.org/wiki/Seymour,_IN_Micropolitan_Statistical_Area",294
+31000US26620,"Huntsville, AL","http://en.wikipedia.org/wiki/Huntsville,_AL_Metropolitan_Statistical_Area",290
+31000US28620,"Kill Devil Hills, NC","http://en.wikipedia.org/wiki/Kill_Devil_Hills,_NC_Micropolitan_Statistical_Area",545
+31000US12820,"Bastrop, LA","http://en.wikipedia.org/wiki/Bastrop,_LA_Micropolitan_Statistical_Area",384
+31000US41500,"Salinas, CA","http://en.wikipedia.org/wiki/Salinas,_CA_Metropolitan_Statistical_Area",
+31000US38460,"Plattsburgh, NY","http://en.wikipedia.org/wiki/Plattsburgh,_NY_Micropolitan_Statistical_Area",
+31000US36820,"Oskaloosa, IA","http://en.wikipedia.org/wiki/Oskaloosa,_IA_Micropolitan_Statistical_Area",
+31000US28180,"Kapaa, HI","http://en.wikipedia.org/wiki/Kapaa,_HI_Micropolitan_Statistical_Area",
+31000US27940,"Juneau, AK","http://en.wikipedia.org/wiki/Juneau,_AK_Micropolitan_Statistical_Area",
+31000US42940,"Sevierville, TN","http://en.wikipedia.org/wiki/Sevierville,_TN_Micropolitan_Statistical_Area",314
+31000US10660,"Albert Lea, MN","http://en.wikipedia.org/wiki/Albert_Lea,_MN_Micropolitan_Statistical_Area",
+31000US25820,"Hereford, TX","http://en.wikipedia.org/wiki/Hereford,_TX_Micropolitan_Statistical_Area",
+31000US46220,"Tuscaloosa, AL","http://en.wikipedia.org/wiki/Tuscaloosa,_AL_Metropolitan_Statistical_Area",
+31000US25940,"Hilton Head Island-Bluffton-Beaufort, SC","http://en.wikipedia.org/wiki/Hilton_Head_Island-Bluffton-Beaufort,_SC_Metropolitan_Statistical_Area",
+31000US28740,"Kingston, NY","http://en.wikipedia.org/wiki/Kingston,_NY_Metropolitan_Statistical_Area",408
+31000US38900,"Portland-Vancouver-Hillsboro, OR-WA","http://en.wikipedia.org/wiki/Portland-Vancouver-Hillsboro,_OR-WA_Metropolitan_Statistical_Area",440
+31000US10740,"Albuquerque, NM","http://en.wikipedia.org/wiki/Albuquerque,_NM_Metropolitan_Statistical_Area",106
+31000US48100,"Wauchula, FL","http://en.wikipedia.org/wiki/Wauchula,_FL_Micropolitan_Statistical_Area",
+31000US14100,"Bloomsburg-Berwick, PA","http://en.wikipedia.org/wiki/Bloomsburg-Berwick,_PA_Metropolitan_Statistical_Area",146
+31000US25700,"Hays, KS","http://en.wikipedia.org/wiki/Hays,_KS_Micropolitan_Statistical_Area",
+31000US20900,"El Campo, TX","http://en.wikipedia.org/wiki/El_Campo,_TX_Micropolitan_Statistical_Area",288
+31000US40060,"Richmond, VA","http://en.wikipedia.org/wiki/Richmond,_VA_Metropolitan_Statistical_Area",
+31000US14660,"Brainerd, MN","http://en.wikipedia.org/wiki/Brainerd,_MN_Micropolitan_Statistical_Area",
+31000US31540,"Madison, WI","http://en.wikipedia.org/wiki/Madison,_WI_Metropolitan_Statistical_Area",357
+31000US44420,"Staunton-Waynesboro, VA","http://en.wikipedia.org/wiki/Staunton-Waynesboro,_VA_Metropolitan_Statistical_Area",277
+31000US19460,"Decatur, AL","http://en.wikipedia.org/wiki/Decatur,_AL_Metropolitan_Statistical_Area",290
+31000US13720,"Big Stone Gap, VA","http://en.wikipedia.org/wiki/Big_Stone_Gap,_VA_Micropolitan_Statistical_Area",
+31000US29200,"Lafayette-West Lafayette, IN","http://en.wikipedia.org/wiki/Lafayette-West_Lafayette,_IN_Metropolitan_Statistical_Area",320
+31000US43260,"Sheridan, WY","http://en.wikipedia.org/wiki/Sheridan,_WY_Micropolitan_Statistical_Area",
+31000US13260,"Bedford, IN","http://en.wikipedia.org/wiki/Bedford,_IN_Micropolitan_Statistical_Area",144
+31000US26860,"Indiana, PA","http://en.wikipedia.org/wiki/Indiana,_PA_Micropolitan_Statistical_Area",430
+31000US11020,"Altoona, PA","http://en.wikipedia.org/wiki/Altoona,_PA_Metropolitan_Statistical_Area",
+31000US19060,"Cumberland, MD-WV","http://en.wikipedia.org/wiki/Cumberland,_MD-WV_Metropolitan_Statistical_Area",
+31000US24660,"Greensboro-High Point, NC","http://en.wikipedia.org/wiki/Greensboro-High_Point,_NC_Metropolitan_Statistical_Area",268
+31000US19380,"Dayton, OH","http://en.wikipedia.org/wiki/Dayton,_OH_Metropolitan_Statistical_Area",212
+31000US39700,"Raymondville, TX","http://en.wikipedia.org/wiki/Raymondville,_TX_Micropolitan_Statistical_Area",154
+31000US49340,"Worcester, MA-CT","http://en.wikipedia.org/wiki/Worcester,_MA-CT_Metropolitan_Statistical_Area",148
+31000US37420,"Pampa, TX","http://en.wikipedia.org/wiki/Pampa,_TX_Micropolitan_Statistical_Area",
+31000US11900,"Athens, OH","http://en.wikipedia.org/wiki/Athens,_OH_Micropolitan_Statistical_Area",
+31000US40140,"Riverside-San Bernardino-Ontario, CA","http://en.wikipedia.org/wiki/Riverside-San_Bernardino-Ontario,_CA_Metropolitan_Statistical_Area",348
+31000US24460,"Great Bend, KS","http://en.wikipedia.org/wiki/Great_Bend,_KS_Micropolitan_Statistical_Area",
+31000US41460,"Salina, KS","http://en.wikipedia.org/wiki/Salina,_KS_Micropolitan_Statistical_Area",
+31000US37580,"Paris, TX","http://en.wikipedia.org/wiki/Paris,_TX_Micropolitan_Statistical_Area",
+31000US24700,"Greensburg, IN","http://en.wikipedia.org/wiki/Greensburg,_IN_Micropolitan_Statistical_Area",294
+31000US36500,"Olympia-Tumwater, WA","http://en.wikipedia.org/wiki/Olympia-Tumwater,_WA_Metropolitan_Statistical_Area",500
+31000US19140,"Dalton, GA","http://en.wikipedia.org/wiki/Dalton,_GA_Metropolitan_Statistical_Area",174
+31000US30380,"Lewistown, PA","http://en.wikipedia.org/wiki/Lewistown,_PA_Micropolitan_Statistical_Area",
+31000US10260,"Adjuntas, PR","http://en.wikipedia.org/wiki/Adjuntas,_PR_Micropolitan_Statistical_Area",434
+31000US16660,"Charleston-Mattoon, IL","http://en.wikipedia.org/wiki/Charleston-Mattoon,_IL_Micropolitan_Statistical_Area",
+31000US33260,"Midland, TX","http://en.wikipedia.org/wiki/Midland,_Texas_metropolitan_area",372
+31000US15740,"Cambridge, OH","http://en.wikipedia.org/wiki/Cambridge,_OH_Micropolitan_Statistical_Area",198
+31000US18980,"Cullman, AL","http://en.wikipedia.org/wiki/Cullman,_AL_Micropolitan_Statistical_Area",142
+31000US43180,"Shelbyville, TN","http://en.wikipedia.org/wiki/Shelbyville,_TN_Micropolitan_Statistical_Area",400
+31000US33540,"Missoula, MT","http://en.wikipedia.org/wiki/Missoula,_MT_Metropolitan_Statistical_Area",
+31000US18660,"Cortland, NY","http://en.wikipedia.org/wiki/Cortland,_NY_Micropolitan_Statistical_Area",296
+31000US25720,"Heber, UT","http://en.wikipedia.org/wiki/Heber,_UT_Micropolitan_Statistical_Area",482
+31000US37900,"Peoria, IL","http://en.wikipedia.org/wiki/Peoria,_IL_Metropolitan_Statistical_Area",426
+31000US12900,"Batesville, AR","http://en.wikipedia.org/wiki/Batesville,_AR_Micropolitan_Statistical_Area",
+31000US20420,"Durango, CO","http://en.wikipedia.org/wiki/Durango,_CO_Micropolitan_Statistical_Area",
+31000US31860,"Mankato-North Mankato, MN","http://en.wikipedia.org/wiki/Mankato-North_Mankato,_MN_Metropolitan_Statistical_Area",359
+31000US17900,"Columbia, SC","http://en.wikipedia.org/wiki/Columbia,_SC_Metropolitan_Statistical_Area",192
+31000US35440,"Newport, OR","http://en.wikipedia.org/wiki/Newport,_OR_Micropolitan_Statistical_Area",
+31000US17060,"Chillicothe, OH","http://en.wikipedia.org/wiki/Chillicothe,_OH_Micropolitan_Statistical_Area",198
+31000US16540,"Chambersburg-Waynesboro, PA","http://en.wikipedia.org/wiki/Chambersburg-Waynesboro,_PA_Metropolitan_Statistical_Area",548
+31000US44180,"Springfield, MO","http://en.wikipedia.org/wiki/Springfield,_MO_Metropolitan_Statistical_Area",520
+31000US32620,"McComb, MS","http://en.wikipedia.org/wiki/McComb,_MS_Micropolitan_Statistical_Area",
+31000US43460,"Sikeston, MO","http://en.wikipedia.org/wiki/Sikeston,_MO_Micropolitan_Statistical_Area",164
+31000US21500,"Erie, PA","http://en.wikipedia.org/wiki/Erie,_PA_Metropolitan_Statistical_Area",240
+31000US43100,"Sheboygan, WI","http://en.wikipedia.org/wiki/Sheboygan,_WI_Metropolitan_Statistical_Area",
+31000US46780,"Van Wert, OH","http://en.wikipedia.org/wiki/Van_Wert,_OH_Micropolitan_Statistical_Area",338
+31000US34900,"Napa, CA","http://en.wikipedia.org/wiki/Napa,_CA_Metropolitan_Statistical_Area",488
+31000US31900,"Mansfield, OH","http://en.wikipedia.org/wiki/Mansfield,_OH_Metropolitan_Statistical_Area",360
+31000US27380,"Jacksonville, TX","http://en.wikipedia.org/wiki/Jacksonville,_TX_Micropolitan_Statistical_Area",540
+31000US44500,"Stephenville, TX","http://en.wikipedia.org/wiki/Stephenville,_TX_Micropolitan_Statistical_Area",
+31000US15820,"Campbellsville, KY","http://en.wikipedia.org/wiki/Campbellsville,_KY_Micropolitan_Statistical_Area",
+31000US13020,"Bay City, MI","http://en.wikipedia.org/wiki/Bay_City,_MI_Metropolitan_Statistical_Area",474
+31000US19700,"Deming, NM","http://en.wikipedia.org/wiki/Deming,_NM_Micropolitan_Statistical_Area",
+31000US27260,"Jacksonville, FL","http://en.wikipedia.org/wiki/Jacksonville,_FL_Metropolitan_Statistical_Area",300
+31000US13620,"Berlin, NH-VT","http://en.wikipedia.org/wiki/Berlin,_NH-VT_Micropolitan_Statistical_Area",
+31000US48580,"Whitewater-Elkhorn, WI","http://en.wikipedia.org/wiki/Whitewater-Elkhorn,_WI_Micropolitan_Statistical_Area",376
+31000US19660,"Deltona-Daytona Beach-Ormond Beach, FL","http://en.wikipedia.org/wiki/Deltona-Daytona_Beach-Ormond_Beach,_FL_Metropolitan_Statistical_Area",422
+31000US17620,"Coamo, PR","http://en.wikipedia.org/wiki/Coamo,_PR_Micropolitan_Statistical_Area",434
+31000US44980,"Sunbury, PA","http://en.wikipedia.org/wiki/Sunbury,_PA_Micropolitan_Statistical_Area",146
+31000US30660,"Lincoln, IL","http://en.wikipedia.org/wiki/Lincoln,_IL_Micropolitan_Statistical_Area",522
+31000US17540,"Clinton, IA","http://en.wikipedia.org/wiki/Clinton,_IA_Micropolitan_Statistical_Area",209
+31000US30700,"Lincoln, NE","http://en.wikipedia.org/wiki/Lincoln,_Nebraska_metropolitan_area",339
+31000US18180,"Concord, NH","http://en.wikipedia.org/wiki/Concord,_NH_Micropolitan_Statistical_Area",148
+31000US35840,"North Port-Sarasota-Bradenton, FL","http://en.wikipedia.org/wiki/North_Port-Sarasota-Bradenton,_FL_Metropolitan_Statistical_Area",412
+31000US22700,"Fort Dodge, IA","http://en.wikipedia.org/wiki/Fort_Dodge,_IA_Micropolitan_Statistical_Area",
+31000US35980,"Norwich-New London, CT","http://en.wikipedia.org/wiki/Norwich-New_London,_CT_Metropolitan_Statistical_Area",278
+31000US33860,"Montgomery, AL","http://en.wikipedia.org/wiki/Montgomery,_AL_Metropolitan_Statistical_Area",
+31000US18060,"Columbus, MS","http://en.wikipedia.org/wiki/Columbus,_MS_Micropolitan_Statistical_Area",
+31000US17460,"Cleveland-Elyria, OH","http://en.wikipedia.org/wiki/Cleveland-Elyria,_OH_Metropolitan_Statistical_Area",184
+31000US32000,"Marion, NC","http://en.wikipedia.org/wiki/Marion,_NC_Micropolitan_Statistical_Area",280
+31000US26140,"Homosassa Springs, FL","http://en.wikipedia.org/wiki/Homosassa_Springs,_FL_Metropolitan_Statistical_Area",
+31000US42020,"San Luis Obispo-Paso Robles-Arroyo Grande, CA","http://en.wikipedia.org/wiki/San_Luis_Obispo-Paso_Robles-Arroyo_Grande,_CA_Metropolitan_Statistical_Area",
+31000US20220,"Dubuque, IA","http://en.wikipedia.org/wiki/Dubuque,_IA_Metropolitan_Statistical_Area",
+31000US42340,"Savannah, GA","http://en.wikipedia.org/wiki/Savannah,_GA_Metropolitan_Statistical_Area",496
+31000US14720,"Breckenridge, CO","http://en.wikipedia.org/wiki/Breckenridge,_CO_Micropolitan_Statistical_Area",
+31000US38620,"Ponca City, OK","http://en.wikipedia.org/wiki/Ponca_City,_OK_Micropolitan_Statistical_Area",
+31000US45340,"Taos, NM","http://en.wikipedia.org/wiki/Taos,_NM_Micropolitan_Statistical_Area",
+31000US40740,"Roswell, NM","http://en.wikipedia.org/wiki/Roswell,_NM_Micropolitan_Statistical_Area",
+31000US43900,"Spartanburg, SC","http://en.wikipedia.org/wiki/Spartanburg,_SC_Metropolitan_Statistical_Area",273
+31000US17300,"Clarksville, TN-KY","http://en.wikipedia.org/wiki/Clarksville,_TN-KY_Metropolitan_Statistical_Area",
+31000US29380,"Lake City, FL","http://en.wikipedia.org/wiki/Lake_City,_FL_Micropolitan_Statistical_Area",264
+31000US10900,"Allentown-Bethlehem-Easton, PA-NJ","http://en.wikipedia.org/wiki/Allentown-Bethlehem-Easton,_PA-NJ_Metropolitan_Statistical_Area",408
+31000US26380,"Houma-Thibodaux, LA","http://en.wikipedia.org/wiki/Houma-Thibodaux,_LA_Metropolitan_Statistical_Area",
+31000US18740,"Coshocton, OH","http://en.wikipedia.org/wiki/Coshocton,_OH_Micropolitan_Statistical_Area",
+31000US26220,"Hood River, OR","http://en.wikipedia.org/wiki/Hood_River,_OR_Micropolitan_Statistical_Area",
+31000US29020,"Kokomo, IN","http://en.wikipedia.org/wiki/Kokomo,_IN_Metropolitan_Statistical_Area",316
+31000US37120,"Ozark, AL","http://en.wikipedia.org/wiki/Ozark,_AL_Micropolitan_Statistical_Area",222
+31000US42860,"Seneca, SC","http://en.wikipedia.org/wiki/Seneca,_SC_Micropolitan_Statistical_Area",273
+31000US34380,"Mount Pleasant, MI","http://en.wikipedia.org/wiki/Mount_Pleasant,_MI_Micropolitan_Statistical_Area",394
+31000US33420,"Mineral Wells, TX","http://en.wikipedia.org/wiki/Mineral_Wells,_TX_Micropolitan_Statistical_Area",206
+31000US35060,"Natchitoches, LA","http://en.wikipedia.org/wiki/Natchitoches,_LA_Micropolitan_Statistical_Area",
+31000US28380,"Kennett, MO","http://en.wikipedia.org/wiki/Kennett,_MO_Micropolitan_Statistical_Area",
+31000US10300,"Adrian, MI","http://en.wikipedia.org/wiki/Adrian,_MI_Micropolitan_Statistical_Area",220
+31000US38420,"Platteville, WI","http://en.wikipedia.org/wiki/Platteville,_WI_Micropolitan_Statistical_Area",
+31000US36220,"Odessa, TX","http://en.wikipedia.org/wiki/Odessa,_TX_Metropolitan_Statistical_Area",372
+31000US25540,"Hartford-West Hartford-East Hartford, CT","http://en.wikipedia.org/wiki/Hartford-West_Hartford-East_Hartford,_CT_Metropolitan_Statistical_Area",278
+31000US31660,"Malone, NY","http://en.wikipedia.org/wiki/Malone,_NY_Micropolitan_Statistical_Area",
+31000US45820,"Topeka, KS","http://en.wikipedia.org/wiki/Topeka,_KS_Metropolitan_Statistical_Area",
+31000US38580,"Point Pleasant, WV-OH","http://en.wikipedia.org/wiki/Point_Pleasant,_WV-OH_Micropolitan_Statistical_Area",
+31000US25220,"Hammond, LA","http://en.wikipedia.org/wiki/Hammond,_LA_Metropolitan_Statistical_Area",406
+31000US28700,"Kingsport-Bristol-Bristol, TN-VA","http://en.wikipedia.org/wiki/Kingsport-Bristol-Bristol,_TN-VA_Metropolitan_Statistical_Area",304
+31000US46300,"Twin Falls, ID","http://en.wikipedia.org/wiki/Twin_Falls,_ID_Micropolitan_Statistical_Area",
+31000US48660,"Wichita Falls, TX","http://en.wikipedia.org/wiki/Wichita_Falls,_TX_Metropolitan_Statistical_Area",
+31000US26740,"Hutchinson, KS","http://en.wikipedia.org/wiki/Hutchinson,_KS_Micropolitan_Statistical_Area",
+31000US26660,"Huntsville, TX","http://en.wikipedia.org/wiki/Huntsville,_TX_Micropolitan_Statistical_Area",288
+31000US36300,"Ogdensburg-Massena, NY","http://en.wikipedia.org/wiki/Ogdensburg-Massena,_NY_Micropolitan_Statistical_Area",
+31000US10140,"Aberdeen, WA","http://en.wikipedia.org/wiki/Aberdeen,_WA_Micropolitan_Statistical_Area",
+31000US25980,"Hinesville, GA","http://en.wikipedia.org/wiki/Hinesville,_GA_Metropolitan_Statistical_Area",496
+31000US39300,"Providence-Warwick, RI-MA","http://en.wikipedia.org/wiki/Providence-Warwick,_RI-MA_Metropolitan_Statistical_Area",148
+31000US30060,"Lebanon, MO","http://en.wikipedia.org/wiki/Lebanon,_MO_Micropolitan_Statistical_Area",
+31000US11620,"Ardmore, OK","http://en.wikipedia.org/wiki/Ardmore,_OK_Micropolitan_Statistical_Area",
+31000US34420,"Mount Pleasant, TX","http://en.wikipedia.org/wiki/Mount_Pleasant,_TX_Micropolitan_Statistical_Area",
+31000US10620,"Albemarle, NC","http://en.wikipedia.org/wiki/Albemarle,_NC_Micropolitan_Statistical_Area",172
+31000US25860,"Hickory-Lenoir-Morganton, NC","http://en.wikipedia.org/wiki/Hickory-Lenoir-Morganton,_NC_Metropolitan_Statistical_Area",280
+31000US34580,"Mount Vernon-Anacortes, WA","http://en.wikipedia.org/wiki/Mount_Vernon-Anacortes,_WA_Metropolitan_Statistical_Area",500
+31000US14020,"Bloomington, IN","http://en.wikipedia.org/wiki/Bloomington,_IN_Metropolitan_Statistical_Area",144
+31000US20940,"El Centro, CA","http://en.wikipedia.org/wiki/El_Centro,_CA_Metropolitan_Statistical_Area",
+31000US40100,"Rio Grande City, TX","http://en.wikipedia.org/wiki/Rio_Grande_City,_TX_Micropolitan_Statistical_Area",365
+31000US36940,"Owatonna, MN","http://en.wikipedia.org/wiki/Owatonna,_MN_Micropolitan_Statistical_Area",
+31000US32460,"Mayfield, KY","http://en.wikipedia.org/wiki/Mayfield,_KY_Micropolitan_Statistical_Area",424
+31000US47540,"Wapakoneta, OH","http://en.wikipedia.org/wiki/Wapakoneta,_OH_Micropolitan_Statistical_Area",338
+31000US22800,"Fort Madison-Keokuk, IA-IL-MO","http://en.wikipedia.org/wiki/Fort_Madison-Keokuk,_IA-IL-MO_Micropolitan_Statistical_Area",
+31000US21300,"Elmira, NY","http://en.wikipedia.org/wiki/Elmira,_NY_Metropolitan_Statistical_Area",236
+31000US37780,"Pecos, TX","http://en.wikipedia.org/wiki/Pecos,_TX_Micropolitan_Statistical_Area",
+31000US48460,"West Plains, MO","http://en.wikipedia.org/wiki/West_Plains,_MO_Micropolitan_Statistical_Area",
+31000US49700,"Yuba City, CA","http://en.wikipedia.org/wiki/Yuba_City,_CA_Metropolitan_Statistical_Area",472
+31000US24740,"Greenville, MS","http://en.wikipedia.org/wiki/Greenville,_MS_Micropolitan_Statistical_Area",
+31000US36540,"Omaha-Council Bluffs, NE-IA","http://en.wikipedia.org/wiki/Omaha-Council_Bluffs,_NE-IA_Metropolitan_Statistical_Area",420
+31000US19100,"Dallas-Fort Worth-Arlington, TX","http://en.wikipedia.org/wiki/Dallas-Fort_Worth-Arlington,_TX_Metropolitan_Statistical_Area",206
+31000US30940,"London, KY","http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area",
+31000US31580,"Madisonville, KY","http://en.wikipedia.org/wiki/Madisonville,_KY_Micropolitan_Statistical_Area",
+31000US39980,"Richmond, IN","http://en.wikipedia.org/wiki/Richmond,_IN_Micropolitan_Statistical_Area",458
+31000US37540,"Paris, TN","http://en.wikipedia.org/wiki/Paris,_TN_Micropolitan_Statistical_Area",
+31000US31180,"Lubbock, TX","http://en.wikipedia.org/wiki/Lubbock,_TX_Metropolitan_Statistical_Area",352
+31000US36830,"Othello, WA","http://en.wikipedia.org/wiki/Othello,_WA_Micropolitan_Statistical_Area",393
+31000US35740,"Norfolk, NE","http://en.wikipedia.org/wiki/Norfolk,_NE_Micropolitan_Statistical_Area",
+31000US47080,"Vidalia, GA","http://en.wikipedia.org/wiki/Vidalia,_GA_Micropolitan_Statistical_Area",
+31000US24580,"Green Bay, WI","http://en.wikipedia.org/wiki/Green_Bay,_WI_Metropolitan_Statistical_Area",267
+31000US30340,"Lewiston-Auburn, ME","http://en.wikipedia.org/wiki/Lewiston-Auburn,_ME_Metropolitan_Statistical_Area",438
+31000US24420,"Grants Pass, OR","http://en.wikipedia.org/wiki/Grants_Pass,_OR_Metropolitan_Statistical_Area",366
+31000US31380,"Macomb, IL","http://en.wikipedia.org/wiki/Macomb,_IL_Micropolitan_Statistical_Area",
+31000US27860,"Jonesboro, AR","http://en.wikipedia.org/wiki/Jonesboro,_AR_Metropolitan_Statistical_Area",308
+31000US26960,"Ionia, MI","http://en.wikipedia.org/wiki/Ionia,_MI_Micropolitan_Statistical_Area",266
+31000US47020,"Victoria, TX","http://en.wikipedia.org/wiki/Victoria,_TX_Metropolitan_Statistical_Area",544
+31000US45000,"Susanville, CA","http://en.wikipedia.org/wiki/Susanville,_CA_Micropolitan_Statistical_Area",
+31000US15700,"Cambridge, MD","http://en.wikipedia.org/wiki/Cambridge,_MD_Micropolitan_Statistical_Area",548
+31000US44020,"Spirit Lake, IA","http://en.wikipedia.org/wiki/Spirit_Lake,_IA_Micropolitan_Statistical_Area",
+31000US33340,"Milwaukee-Waukesha-West Allis, WI","http://en.wikipedia.org/wiki/Milwaukee-Waukesha-West_Allis,_WI_Metropolitan_Statistical_Area",376
+31000US16500,"Centralia, WA","http://en.wikipedia.org/wiki/Centralia,_WA_Micropolitan_Statistical_Area",500
+31000US31940,"Marinette, WI-MI","http://en.wikipedia.org/wiki/Marinette,_WI-MI_Micropolitan_Statistical_Area",
+31000US29980,"Lawrenceburg, TN","http://en.wikipedia.org/wiki/Lawrenceburg,_TN_Micropolitan_Statistical_Area",400
+31000US23340,"Fremont, NE","http://en.wikipedia.org/wiki/Fremont,_NE_Micropolitan_Statistical_Area",420
+31000US20540,"Dyersburg, TN","http://en.wikipedia.org/wiki/Dyersburg,_TN_Micropolitan_Statistical_Area",
+31000US20460,"Durant, OK","http://en.wikipedia.org/wiki/Durant,_OK_Micropolitan_Statistical_Area",206
+31000US23420,"Fresno, CA","http://en.wikipedia.org/wiki/Fresno,_CA_Metropolitan_Statistical_Area",260
+31000US22520,"Florence-Muscle Shoals, AL","http://en.wikipedia.org/wiki/Florence-Muscle_Shoals,_AL_Metropolitan_Statistical_Area",
+31000US34940,"Naples-Immokalee-Marco Island, FL","http://en.wikipedia.org/wiki/Naples-Immokalee-Marco_Island,_FL_Metropolitan_Statistical_Area",162
+31000US25880,"Hillsdale, MI","http://en.wikipedia.org/wiki/Hillsdale,_MI_Micropolitan_Statistical_Area",
+31000US37300,"Palestine, TX","http://en.wikipedia.org/wiki/Palestine,_TX_Micropolitan_Statistical_Area",
+31000US21420,"Enid, OK","http://en.wikipedia.org/wiki/Enid,_OK_Micropolitan_Statistical_Area",
+31000US13060,"Bay City, TX","http://en.wikipedia.org/wiki/Bay_City,_TX_Micropolitan_Statistical_Area",288
+31000US21540,"Escanaba, MI","http://en.wikipedia.org/wiki/Escanaba,_MI_Micropolitan_Statistical_Area",
+31000US37260,"Palatka, FL","http://en.wikipedia.org/wiki/Palatka,_FL_Micropolitan_Statistical_Area",300
+31000US19420,"Dayton, TN","http://en.wikipedia.org/wiki/Dayton,_TN_Micropolitan_Statistical_Area",174
+31000US15100,"Brookings, SD","http://en.wikipedia.org/wiki/Brookings,_SD_Micropolitan_Statistical_Area",
+31000US16020,"Cape Girardeau, MO-IL","http://en.wikipedia.org/wiki/Cape_Girardeau,_MO-IL_Metropolitan_Statistical_Area",164
+31000US45500,"Texarkana, TX-AR","http://en.wikipedia.org/wiki/Texarkana,_TX-AR_Metropolitan_Statistical_Area",
+31000US13100,"Beatrice, NE","http://en.wikipedia.org/wiki/Beatrice,_NE_Micropolitan_Statistical_Area",339
+31000US37060,"Oxford, MS","http://en.wikipedia.org/wiki/Oxford,_MS_Micropolitan_Statistical_Area",
+31000US30580,"Liberal, KS","http://en.wikipedia.org/wiki/Liberal,_KS_Micropolitan_Statistical_Area",
+31000US18300,"Coos Bay, OR","http://en.wikipedia.org/wiki/Coos_Bay,_OR_Micropolitan_Statistical_Area",
+31000US30620,"Lima, OH","http://en.wikipedia.org/wiki/Lima,_OH_Metropolitan_Statistical_Area",338
+31000US34260,"Mountain Home, AR","http://en.wikipedia.org/wiki/Mountain_Home,_AR_Micropolitan_Statistical_Area",
+31000US45300,"Tampa-St. Petersburg-Clearwater, FL","http://en.wikipedia.org/wiki/Tampa-St._Petersburg-Clearwater,_FL_Metropolitan_Statistical_Area",
+31000US29180,"Lafayette, LA","http://en.wikipedia.org/wiki/Lafayette,_LA_Metropolitan_Statistical_Area",318
+31000US22060,"Faribault-Northfield, MN","http://en.wikipedia.org/wiki/Faribault-Northfield,_MN_Micropolitan_Statistical_Area",378
+31000US31930,"Marietta, OH","http://en.wikipedia.org/wiki/Marietta,_OH_Micropolitan_Statistical_Area",425
+31000US20260,"Duluth, MN-WI","http://en.wikipedia.org/wiki/Duluth,_MN-WI_Metropolitan_Statistical_Area",
+31000US43940,"Spearfish, SD","http://en.wikipedia.org/wiki/Spearfish,_SD_Micropolitan_Statistical_Area",452
+31000US40080,"Richmond-Berea, KY","http://en.wikipedia.org/wiki/Richmond-Berea,_KY_Micropolitan_Statistical_Area",336
+31000US38180,"Pierre, SD","http://en.wikipedia.org/wiki/Pierre,_SD_Micropolitan_Statistical_Area",
+31000US12680,"Bardstown, KY","http://en.wikipedia.org/wiki/Bardstown,_KY_Micropolitan_Statistical_Area",350
+31000US49220,"Wisconsin Rapids-Marshfield, WI","http://en.wikipedia.org/wiki/Wisconsin_Rapids-Marshfield,_WI_Micropolitan_Statistical_Area",554
+31000US23900,"Gettysburg, PA","http://en.wikipedia.org/wiki/Gettysburg,_PA_Metropolitan_Statistical_Area",276
+31000US20060,"Douglas, GA","http://en.wikipedia.org/wiki/Douglas,_GA_Micropolitan_Statistical_Area",
+31000US32140,"Marshall, MN","http://en.wikipedia.org/wiki/Marshall,_MN_Micropolitan_Statistical_Area",
+31000US37460,"Panama City, FL","http://en.wikipedia.org/wiki/Panama_City,_FL_Metropolitan_Statistical_Area",
+31000US20300,"Dumas, TX","http://en.wikipedia.org/wiki/Dumas,_TX_Micropolitan_Statistical_Area",
+31000US38740,"Poplar Bluff, MO","http://en.wikipedia.org/wiki/Poplar_Bluff,_MO_Micropolitan_Statistical_Area",
+31000US18620,"Corsicana, TX","http://en.wikipedia.org/wiki/Corsicana,_TX_Micropolitan_Statistical_Area",206
+31000US25760,"Helena-West Helena, AR","http://en.wikipedia.org/wiki/Helena-West_Helena,_AR_Micropolitan_Statistical_Area",
+31000US37940,"Peru, IN","http://en.wikipedia.org/wiki/Peru,_IN_Micropolitan_Statistical_Area",316
+31000US32340,"Maryville, MO","http://en.wikipedia.org/wiki/Maryville,_MO_Micropolitan_Statistical_Area",
+31000US43760,"Sonora, CA","http://en.wikipedia.org/wiki/Sonora,_CA_Micropolitan_Statistical_Area",
+31000US10820,"Alexandria, MN","http://en.wikipedia.org/wiki/Alexandria,_MN_Micropolitan_Statistical_Area",
+31000US33220,"Midland, MI","http://en.wikipedia.org/wiki/Midland,_MI_Metropolitan_Statistical_Area",474
+31000US24340,"Grand Rapids-Wyoming, MI","http://en.wikipedia.org/wiki/Grand_Rapids-Wyoming,_MI_Metropolitan_Statistical_Area",266
+31000US18780,"Craig, CO","http://en.wikipedia.org/wiki/Craig,_CO_Micropolitan_Statistical_Area",525
+31000US24100,"Gloversville, NY","http://en.wikipedia.org/wiki/Gloversville,_NY_Micropolitan_Statistical_Area",104
+31000US33580,"Mitchell, SD","http://en.wikipedia.org/wiki/Mitchell,_SD_Micropolitan_Statistical_Area",
+31000US25260,"Hanford-Corcoran, CA","http://en.wikipedia.org/wiki/Hanford-Corcoran,_CA_Metropolitan_Statistical_Area",546
+31000US40220,"Roanoke, VA","http://en.wikipedia.org/wiki/Roanoke,_VA_Metropolitan_Statistical_Area",
+31000US15900,"Canton, IL","http://en.wikipedia.org/wiki/Canton,_IL_Micropolitan_Statistical_Area",426
+31000US21900,"Fairmont, WV","http://en.wikipedia.org/wiki/Fairmont,_WV_Micropolitan_Statistical_Area",390
+31000US46620,"Uvalde, TX","http://en.wikipedia.org/wiki/Uvalde,_TX_Micropolitan_Statistical_Area",
+31000US32020,"Marion, OH","http://en.wikipedia.org/wiki/Marion,_OH_Micropolitan_Statistical_Area",198
+31000US42420,"Scottsbluff, NE","http://en.wikipedia.org/wiki/Scottsbluff,_NE_Micropolitan_Statistical_Area",
+31000US42680,"Sebastian-Vero Beach, FL","http://en.wikipedia.org/wiki/Sebastian-Vero_Beach,_FL_Metropolitan_Statistical_Area",370
+31000US25300,"Hannibal, MO","http://en.wikipedia.org/wiki/Hannibal,_MO_Micropolitan_Statistical_Area",448
+31000US32700,"McPherson, KS","http://en.wikipedia.org/wiki/McPherson,_KS_Micropolitan_Statistical_Area",
+31000US36260,"Ogden-Clearfield, UT","http://en.wikipedia.org/wiki/Ogden-Clearfield,_UT_Metropolitan_Statistical_Area",482
+31000US41700,"San Antonio-New Braunfels, TX","http://en.wikipedia.org/wiki/San_Antonio-New_Braunfels,_TX_Metropolitan_Statistical_Area",
+31000US25460,"Harrison, AR","http://en.wikipedia.org/wiki/Harrison,_AR_Micropolitan_Statistical_Area",
+31000US27600,"Jefferson, GA","http://en.wikipedia.org/wiki/Jefferson,_GA_Micropolitan_Statistical_Area",122
+31000US25500,"Harrisonburg, VA","http://en.wikipedia.org/wiki/Harrisonburg,_VA_Metropolitan_Statistical_Area",277
+31000US36340,"Oil City, PA","http://en.wikipedia.org/wiki/Oil_City,_PA_Micropolitan_Statistical_Area",
+31000US39580,"Raleigh, NC","http://en.wikipedia.org/wiki/Raleigh,_NC_Metropolitan_Statistical_Area",450
+31000US48980,"Wilson, NC","http://en.wikipedia.org/wiki/Wilson,_NC_Micropolitan_Statistical_Area",468
+31000US11660,"Arkadelphia, AR","http://en.wikipedia.org/wiki/Arkadelphia,_AR_Micropolitan_Statistical_Area",
+31000US15680,"California-Lexington Park, MD","http://en.wikipedia.org/wiki/California-Lexington_Park,_MD_Metropolitan_Statistical_Area",548
+31000US26700,"Huron, SD","http://en.wikipedia.org/wiki/Huron,_SD_Micropolitan_Statistical_Area",
+31000US39460,"Punta Gorda, FL","http://en.wikipedia.org/wiki/Punta_Gorda,_FL_Metropolitan_Statistical_Area",412
+31000US47340,"Wabash, IN","http://en.wikipedia.org/wiki/Wabash,_IN_Micropolitan_Statistical_Area",
+31000US24900,"Greenwood, MS","http://en.wikipedia.org/wiki/Greenwood,_MS_Micropolitan_Statistical_Area",
+31000US34300,"Mountain Home, ID","http://en.wikipedia.org/wiki/Mountain_Home,_ID_Micropolitan_Statistical_Area",147
+31000US34980,"Nashville-Davidson--Murfreesboro--Franklin, TN","http://en.wikipedia.org/wiki/Nashville-Davidson%E2%80%93Murfreesboro%E2%80%93Franklin,_TN_Metropolitan_Statistical_Area",400
+31000US11460,"Ann Arbor, MI","http://en.wikipedia.org/wiki/Ann_Arbor,_MI_Metropolitan_Statistical_Area",220
+31000US41220,"St. Marys, GA","http://en.wikipedia.org/wiki/St._Marys,_GA_Micropolitan_Statistical_Area",300
+31000US34460,"Mount Sterling, KY","http://en.wikipedia.org/wiki/Mount_Sterling,_KY_Micropolitan_Statistical_Area",336
+31000US28580,"Key West, FL","http://en.wikipedia.org/wiki/Key_West,_FL_Micropolitan_Statistical_Area",
+31000US12180,"Auburn, NY","http://en.wikipedia.org/wiki/Auburn,_NY_Micropolitan_Statistical_Area",532
+31000US11700,"Asheville, NC","http://en.wikipedia.org/wiki/Asheville,_NC_Metropolitan_Statistical_Area",120
+31000US29500,"Lamesa, TX","http://en.wikipedia.org/wiki/Lamesa,_TX_Micropolitan_Statistical_Area",
+31000US27920,"Junction City, KS","http://en.wikipedia.org/wiki/Junction_City,_KS_Micropolitan_Statistical_Area",358
+31000US39780,"Red Bluff, CA","http://en.wikipedia.org/wiki/Red_Bluff,_CA_Micropolitan_Statistical_Area",454
+31000US47700,"Warsaw, IN","http://en.wikipedia.org/wiki/Warsaw,_IN_Micropolitan_Statistical_Area",
+31000US42100,"Santa Cruz-Watsonville, CA","http://en.wikipedia.org/wiki/Santa_Cruz-Watsonville,_CA_Metropolitan_Statistical_Area",488
+31000US21340,"El Paso, TX","http://en.wikipedia.org/wiki/El_Paso,_TX_Metropolitan_Statistical_Area",238
+31000US40820,"Ruston, LA","http://en.wikipedia.org/wiki/Ruston,_LA_Micropolitan_Statistical_Area",384
+31000US46520,"Urban Honolulu, HI","http://en.wikipedia.org/wiki/Urban_Honolulu,_HI_Metropolitan_Statistical_Area",
+31000US32860,"Menomonie, WI","http://en.wikipedia.org/wiki/Menomonie,_WI_Micropolitan_Statistical_Area",232
+31000US28900,"Klamath Falls, OR","http://en.wikipedia.org/wiki/Klamath_Falls,_OR_Micropolitan_Statistical_Area",
+31000US37500,"Paragould, AR","http://en.wikipedia.org/wiki/Paragould,_AR_Micropolitan_Statistical_Area",308
+31000US40420,"Rockford, IL","http://en.wikipedia.org/wiki/Rockford,_IL_Metropolitan_Statistical_Area",466
+31000US24780,"Greenville, NC","http://en.wikipedia.org/wiki/Greenville,_NC_Metropolitan_Statistical_Area",274
+31000US15420,"Burley, ID","http://en.wikipedia.org/wiki/Burley,_ID_Micropolitan_Statistical_Area",
+31000US27780,"Johnstown, PA","http://en.wikipedia.org/wiki/Johnstown,_PA_Metropolitan_Statistical_Area",306
+31000US39820,"Redding, CA","http://en.wikipedia.org/wiki/Redding,_CA_Metropolitan_Statistical_Area",454
+31000US21260,"Ellensburg, WA","http://en.wikipedia.org/wiki/Ellensburg,_WA_Micropolitan_Statistical_Area",
+31000US49620,"York-Hanover, PA","http://en.wikipedia.org/wiki/York-Hanover,_PA_Metropolitan_Statistical_Area",276
+31000US48820,"Willmar, MN","http://en.wikipedia.org/wiki/Willmar,_MN_Micropolitan_Statistical_Area",
+31000US36460,"Olean, NY","http://en.wikipedia.org/wiki/Olean,_NY_Micropolitan_Statistical_Area",160
+31000US14500,"Boulder, CO","http://en.wikipedia.org/wiki/Boulder,_CO_Metropolitan_Statistical_Area",216
+31000US44920,"Summit Park, UT","http://en.wikipedia.org/wiki/Summit_Park,_UT_Micropolitan_Statistical_Area",482
+31000US12380,"Austin, MN","http://en.wikipedia.org/wiki/Austin,_MN_Micropolitan_Statistical_Area",462
+31000US31500,"Madison, IN","http://en.wikipedia.org/wiki/Madison,_IN_Micropolitan_Statistical_Area",350
+31000US46980,"Vicksburg, MS","http://en.wikipedia.org/wiki/Vicksburg,_MS_Micropolitan_Statistical_Area",298
+31000US12140,"Auburn, IN","http://en.wikipedia.org/wiki/Auburn,_IN_Micropolitan_Statistical_Area",258
+31000US35140,"Newberry, SC","http://en.wikipedia.org/wiki/Newberry,_SC_Micropolitan_Statistical_Area",192
+31000US44740,"Storm Lake, IA","http://en.wikipedia.org/wiki/Storm_Lake,_IA_Micropolitan_Statistical_Area",
+31000US27500,"Janesville-Beloit, WI","http://en.wikipedia.org/wiki/Janesville-Beloit,_WI_Metropolitan_Statistical_Area",357
+31000US12260,"Augusta-Richmond County, GA-SC","http://en.wikipedia.org/wiki/Augusta-Richmond_County,_GA-SC_Metropolitan_Statistical_Area",
+31000US36740,"Orlando-Kissimmee-Sanford, FL","http://en.wikipedia.org/wiki/Orlando-Kissimmee-Sanford,_FL_Metropolitan_Statistical_Area",422
+31000US42200,"Santa Maria-Santa Barbara, CA","http://en.wikipedia.org/wiki/Santa_Maria-Santa_Barbara,_CA_Metropolitan_Statistical_Area",
+31000US35020,"Natchez, MS-LA","http://en.wikipedia.org/wiki/Natchez,_MS-LA_Micropolitan_Statistical_Area",
+31000US23460,"Gadsden, AL","http://en.wikipedia.org/wiki/Gadsden,_AL_Metropolitan_Statistical_Area",
+31000US31980,"Marion, IN","http://en.wikipedia.org/wiki/Marion,_IN_Micropolitan_Statistical_Area",
+31000US44260,"Starkville, MS","http://en.wikipedia.org/wiki/Starkville,_MS_Micropolitan_Statistical_Area",
+31000US41400,"Salem, OH","http://en.wikipedia.org/wiki/Salem,_OH_Micropolitan_Statistical_Area",566
+31000US45980,"Troy, AL","http://en.wikipedia.org/wiki/Troy,_AL_Micropolitan_Statistical_Area",
+31000US17700,"Coffeyville, KS","http://en.wikipedia.org/wiki/Coffeyville,_KS_Micropolitan_Statistical_Area",
+31000US34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC","http://en.wikipedia.org/wiki/Myrtle_Beach-Conway-North_Myrtle_Beach,_SC-NC_Metropolitan_Statistical_Area",396
+31000US23300,"Freeport, IL","http://en.wikipedia.org/wiki/Freeport,_IL_Micropolitan_Statistical_Area",466
+31000US20500,"Durham-Chapel Hill, NC","http://en.wikipedia.org/wiki/Durham-Chapel_Hill,_NC_Metropolitan_Statistical_Area",450
+31000US21580,"Española, NM","http://en.wikipedia.org/wiki/Espa%C3%B1ola,_NM_Micropolitan_Statistical_Area",106
+31000US13140,"Beaumont-Port Arthur, TX","http://en.wikipedia.org/wiki/Beaumont-Port_Arthur,_TX_Metropolitan_Statistical_Area",
+31000US37020,"Owosso, MI","http://en.wikipedia.org/wiki/Owosso,_MI_Micropolitan_Statistical_Area",330
+31000US15220,"Brownwood, TX","http://en.wikipedia.org/wiki/Brownwood,_TX_Micropolitan_Statistical_Area",
+31000US45660,"Tiffin, OH","http://en.wikipedia.org/wiki/Tiffin,_OH_Micropolitan_Statistical_Area",248
+31000US32660,"McMinnville, TN","http://en.wikipedia.org/wiki/McMinnville,_TN_Micropolitan_Statistical_Area",
+31000US49380,"Worthington, MN","http://en.wikipedia.org/wiki/Worthington,_MN_Micropolitan_Statistical_Area",
+31000US37340,"Palm Bay-Melbourne-Titusville, FL","http://en.wikipedia.org/wiki/Palm_Bay-Melbourne-Titusville,_FL_Metropolitan_Statistical_Area",
+31000US21460,"Enterprise, AL","http://en.wikipedia.org/wiki/Enterprise,_AL_Micropolitan_Statistical_Area",222
+31000US30260,"Lewisburg, PA","http://en.wikipedia.org/wiki/Lewisburg,_PA_Micropolitan_Statistical_Area",146
+31000US36900,"Ottumwa, IA","http://en.wikipedia.org/wiki/Ottumwa,_IA_Micropolitan_Statistical_Area",
+31000US32420,"Mayagüez, PR","http://en.wikipedia.org/wiki/Mayag%C3%BCez,_PR_Metropolitan_Statistical_Area",364
+31000US37660,"Parsons, KS","http://en.wikipedia.org/wiki/Parsons,_KS_Micropolitan_Statistical_Area",
+31000US13380,"Bellingham, WA","http://en.wikipedia.org/wiki/Bellingham,_WA_Metropolitan_Statistical_Area",
+31000US48180,"Waycross, GA","http://en.wikipedia.org/wiki/Waycross,_GA_Micropolitan_Statistical_Area",
+31000US13220,"Beckley, WV","http://en.wikipedia.org/wiki/Beckley,_WV_Metropolitan_Statistical_Area",
+31000US20980,"El Dorado, AR","http://en.wikipedia.org/wiki/El_Dorado,_AR_Micropolitan_Statistical_Area",
+31000US41100,"St. George, UT","http://en.wikipedia.org/wiki/St._George,_UT_Metropolitan_Statistical_Area",
+31000US12220,"Auburn-Opelika, AL","http://en.wikipedia.org/wiki/Auburn-Opelika,_AL_Metropolitan_Statistical_Area",194
+31000US22020,"Fargo, ND-MN","http://en.wikipedia.org/wiki/Fargo,_ND-MN_Metropolitan_Statistical_Area",244
+31000US44660,"Stillwater, OK","http://en.wikipedia.org/wiki/Stillwater,_OK_Micropolitan_Statistical_Area",
+31000US31420,"Macon, GA","http://en.wikipedia.org/wiki/Macon,_GA_Metropolitan_Statistical_Area",356
+31000US44780,"Sturgis, MI","http://en.wikipedia.org/wiki/Sturgis,_MI_Micropolitan_Statistical_Area",310
+31000US46100,"Tullahoma-Manchester, TN","http://en.wikipedia.org/wiki/Tullahoma-Manchester,_TN_Micropolitan_Statistical_Area",
+31000US22780,"Fort Leonard Wood, MO","http://en.wikipedia.org/wiki/Fort_Leonard_Wood,_MO_Micropolitan_Statistical_Area",
+31000US20340,"Duncan, OK","http://en.wikipedia.org/wiki/Duncan,_OK_Micropolitan_Statistical_Area",
+31000US38700,"Pontiac, IL","http://en.wikipedia.org/wiki/Pontiac,_IL_Micropolitan_Statistical_Area",145
+31000US10540,"Albany, OR","http://en.wikipedia.org/wiki/Albany,_OR_Metropolitan_Statistical_Area",440
+31000US23940,"Gillette, WY","http://en.wikipedia.org/wiki/Gillette,_WY_Micropolitan_Statistical_Area",
+31000US38060,"Phoenix-Mesa-Scottsdale, AZ","http://en.wikipedia.org/wiki/Phoenix-Mesa-Scottsdale,_AZ_Metropolitan_Statistical_Area",
+31000US18580,"Corpus Christi, TX","http://en.wikipedia.org/wiki/Corpus_Christi,_TX_Metropolitan_Statistical_Area",204
+31000US27580,"Jayuya, PR","http://en.wikipedia.org/wiki/Jayuya,_PR_Micropolitan_Statistical_Area",
+31000US10220,"Ada, OK","http://en.wikipedia.org/wiki/Ada,_OK_Micropolitan_Statistical_Area",
+31000US43020,"Shawano, WI","http://en.wikipedia.org/wiki/Shawano,_WI_Micropolitan_Statistical_Area",267
+31000US27420,"Jamestown, ND","http://en.wikipedia.org/wiki/Jamestown,_ND_Micropolitan_Statistical_Area",
+31000US23780,"Garden City, KS","http://en.wikipedia.org/wiki/Garden_City,_KS_Micropolitan_Statistical_Area",
+31000US13740,"Billings, MT","http://en.wikipedia.org/wiki/Billings,_MT_Metropolitan_Statistical_Area",
+31000US20020,"Dothan, AL","http://en.wikipedia.org/wiki/Dothan,_AL_Metropolitan_Statistical_Area",222
+31000US29300,"LaGrange, GA","http://en.wikipedia.org/wiki/LaGrange,_GA_Micropolitan_Statistical_Area",122
+31000US23860,"Georgetown, SC","http://en.wikipedia.org/wiki/Georgetown,_SC_Micropolitan_Statistical_Area",396
+31000US10980,"Alpena, MI","http://en.wikipedia.org/wiki/Alpena,_MI_Micropolitan_Statistical_Area",
+31000US26300,"Hot Springs, AR","http://en.wikipedia.org/wiki/Hot_Springs,_AR_Metropolitan_Statistical_Area",284
+31000US33300,"Milledgeville, GA","http://en.wikipedia.org/wiki/Milledgeville,_GA_Micropolitan_Statistical_Area",
+31000US44100,"Springfield, IL","http://en.wikipedia.org/wiki/Springfield,_IL_Metropolitan_Statistical_Area",522
+31000US36420,"Oklahoma City, OK","http://en.wikipedia.org/wiki/Oklahoma_City,_OK_Metropolitan_Statistical_Area",416
+31000US10860,"Alice, TX","http://en.wikipedia.org/wiki/Alice,_TX_Micropolitan_Statistical_Area",204
+31000US49300,"Wooster, OH","http://en.wikipedia.org/wiki/Wooster,_OH_Micropolitan_Statistical_Area",
+31000US18900,"Crossville, TN","http://en.wikipedia.org/wiki/Crossville,_TN_Micropolitan_Statistical_Area",
+31000US44060,"Spokane-Spokane Valley, WA","http://en.wikipedia.org/wiki/Spokane-Spokane_Valley,_WA_Metropolitan_Statistical_Area",518
+31000US20740,"Eau Claire, WI","http://en.wikipedia.org/wiki/Eau_Claire,_WI_Metropolitan_Statistical_Area",232
+31000US19500,"Decatur, IL","http://en.wikipedia.org/wiki/Decatur,_IL_Metropolitan_Statistical_Area",
+31000US40260,"Roanoke Rapids, NC","http://en.wikipedia.org/wiki/Roanoke_Rapids,_NC_Micropolitan_Statistical_Area",468
+31000US15940,"Canton-Massillon, OH","http://en.wikipedia.org/wiki/Canton-Massillon,_OH_Metropolitan_Statistical_Area",184
+31000US17200,"Claremont-Lebanon, NH-VT","http://en.wikipedia.org/wiki/Claremont-Lebanon,_NH-VT_Micropolitan_Statistical_Area",
+31000US29940,"Lawrence, KS","http://en.wikipedia.org/wiki/Lawrence,_KS_Metropolitan_Statistical_Area",312
+31000US21120,"Elk City, OK","http://en.wikipedia.org/wiki/Elk_City,_OK_Micropolitan_Statistical_Area",
+31000US25780,"Henderson, NC","http://en.wikipedia.org/wiki/Henderson,_NC_Micropolitan_Statistical_Area",450
+31000US39540,"Racine, WI","http://en.wikipedia.org/wiki/Racine,_WI_Metropolitan_Statistical_Area",376
+31000US41620,"Salt Lake City, UT","http://en.wikipedia.org/wiki/Salt_Lake_City,_UT_Metropolitan_Statistical_Area",482
+31000US28780,"Kingsville, TX","http://en.wikipedia.org/wiki/Kingsville,_TX_Micropolitan_Statistical_Area",204
+31000US41740,"San Diego-Carlsbad, CA","http://en.wikipedia.org/wiki/San_Diego-Carlsbad,_CA_Metropolitan_Statistical_Area",
+31000US25420,"Harrisburg-Carlisle, PA","http://en.wikipedia.org/wiki/Harrisburg-Carlisle,_PA_Metropolitan_Statistical_Area",276
+31000US44580,"Sterling, IL","http://en.wikipedia.org/wiki/Sterling,_IL_Micropolitan_Statistical_Area",221
+31000US39420,"Pullman, WA","http://en.wikipedia.org/wiki/Pullman,_WA_Micropolitan_Statistical_Area",446
+31000US11740,"Ashland, OH","http://en.wikipedia.org/wiki/Ashland,_OH_Micropolitan_Statistical_Area",360
+31000US29540,"Lancaster, PA","http://en.wikipedia.org/wiki/Lancaster,_PA_Metropolitan_Statistical_Area",
+31000US17420,"Cleveland, TN","http://en.wikipedia.org/wiki/Cleveland,_TN_Metropolitan_Statistical_Area",174
+31000US32100,"Marquette, MI","http://en.wikipedia.org/wiki/Marquette,_MI_Micropolitan_Statistical_Area",
+31000US46380,"Ukiah, CA","http://en.wikipedia.org/wiki/Ukiah,_CA_Micropolitan_Statistical_Area",
+31000US22140,"Farmington, NM","http://en.wikipedia.org/wiki/Farmington,_NM_Metropolitan_Statistical_Area",
+31000US26980,"Iowa City, IA","http://en.wikipedia.org/wiki/Iowa_City,_IA_Metropolitan_Statistical_Area",168
+31000US28540,"Ketchikan, AK","http://en.wikipedia.org/wiki/Ketchikan,_AK_Micropolitan_Statistical_Area",
+31000US35420,"New Philadelphia-Dover, OH","http://en.wikipedia.org/wiki/New_Philadelphia-Dover,_OH_Micropolitan_Statistical_Area",184
+31000US34220,"Moultrie, GA","http://en.wikipedia.org/wiki/Moultrie,_GA_Micropolitan_Statistical_Area",
+31000US40860,"Rutland, VT","http://en.wikipedia.org/wiki/Rutland,_VT_Micropolitan_Statistical_Area",
+31000US11580,"Arcadia, FL","http://en.wikipedia.org/wiki/Arcadia,_FL_Micropolitan_Statistical_Area",412
+31000US29780,"Las Vegas, NM","http://en.wikipedia.org/wiki/Las_Vegas,_NM_Micropolitan_Statistical_Area",106
+31000US11420,"Angola, IN","http://en.wikipedia.org/wiki/Angola,_IN_Micropolitan_Statistical_Area",258
+31000US29420,"Lake Havasu City-Kingman, AZ","http://en.wikipedia.org/wiki/Lake_Havasu_City-Kingman,_AZ_Metropolitan_Statistical_Area",332
+31000US21220,"Elko, NV","http://en.wikipedia.org/wiki/Elko,_NV_Micropolitan_Statistical_Area",
+31000US49660,"Youngstown-Warren-Boardman, OH-PA","http://en.wikipedia.org/wiki/Youngstown-Warren-Boardman,_OH-PA_Metropolitan_Statistical_Area",566
+31000US39900,"Reno, NV","http://en.wikipedia.org/wiki/Reno,_NV_Metropolitan_Statistical_Area",456
+31000US47980,"Watertown, SD","http://en.wikipedia.org/wiki/Watertown,_SD_Micropolitan_Statistical_Area",
+31000US36980,"Owensboro, KY","http://en.wikipedia.org/wiki/Owensboro,_KY_Metropolitan_Statistical_Area",
+31000US40460,"Rockingham, NC","http://en.wikipedia.org/wiki/Rockingham,_NC_Micropolitan_Statistical_Area",
+31000US42380,"Sayre, PA","http://en.wikipedia.org/wiki/Sayre,_PA_Micropolitan_Statistical_Area",
+31000US21380,"Emporia, KS","http://en.wikipedia.org/wiki/Emporia,_KS_Micropolitan_Statistical_Area",
+31000US40780,"Russellville, AR","http://en.wikipedia.org/wiki/Russellville,_AR_Micropolitan_Statistical_Area",
+31000US39860,"Red Wing, MN","http://en.wikipedia.org/wiki/Red_Wing,_MN_Micropolitan_Statistical_Area",378
+31000US16340,"Cedartown, GA","http://en.wikipedia.org/wiki/Cedartown,_GA_Micropolitan_Statistical_Area",122
+31000US15540,"Burlington-South Burlington, VT","http://en.wikipedia.org/wiki/Burlington-South_Burlington,_VT_Metropolitan_Statistical_Area",
+31000US48900,"Wilmington, NC","http://en.wikipedia.org/wiki/Wilmington,_NC_Metropolitan_Statistical_Area",
+31000US15460,"Burlington, IA-IL","http://en.wikipedia.org/wiki/Burlington,_IA-IL_Micropolitan_Statistical_Area",
+31000US38840,"Port Clinton, OH","http://en.wikipedia.org/wiki/Port_Clinton,_OH_Micropolitan_Statistical_Area",534
+31000US38240,"Pinehurst-Southern Pines, NC","http://en.wikipedia.org/wiki/Pinehurst-Southern_Pines,_NC_Micropolitan_Statistical_Area",
+31000US28300,"Keene, NH","http://en.wikipedia.org/wiki/Keene,_NH_Micropolitan_Statistical_Area",
+31000US20180,"DuBois, PA","http://en.wikipedia.org/wiki/DuBois,_PA_Micropolitan_Statistical_Area",524
+31000US14420,"Borger, TX","http://en.wikipedia.org/wiki/Borger,_TX_Micropolitan_Statistical_Area",108
+31000US12100,"Atlantic City-Hammonton, NJ","http://en.wikipedia.org/wiki/Atlantic_City-Hammonton,_NJ_Metropolitan_Statistical_Area",428
+31000US14540,"Bowling Green, KY","http://en.wikipedia.org/wiki/Bowling_Green,_KY_Metropolitan_Statistical_Area",150
+31000US27620,"Jefferson City, MO","http://en.wikipedia.org/wiki/Jefferson_City,_MO_Metropolitan_Statistical_Area",
+31000US24500,"Great Falls, MT","http://en.wikipedia.org/wiki/Great_Falls,_MT_Metropolitan_Statistical_Area",
+31000US28260,"Kearney, NE","http://en.wikipedia.org/wiki/Kearney,_NE_Micropolitan_Statistical_Area",
+31000US47240,"Vineyard Haven, MA","http://en.wikipedia.org/wiki/Vineyard_Haven,_MA_Micropolitan_Statistical_Area",
+31000US46700,"Vallejo-Fairfield, CA","http://en.wikipedia.org/wiki/Vallejo-Fairfield,_CA_Metropolitan_Statistical_Area",488
+31000US43140,"Shelby, NC","http://en.wikipedia.org/wiki/Shelby,_NC_Micropolitan_Statistical_Area",172
+31000US13660,"Big Rapids, MI","http://en.wikipedia.org/wiki/Big_Rapids,_MI_Micropolitan_Statistical_Area",266
+31000US35100,"New Bern, NC","http://en.wikipedia.org/wiki/New_Bern,_NC_Metropolitan_Statistical_Area",404
+31000US34860,"Nacogdoches, TX","http://en.wikipedia.org/wiki/Nacogdoches,_TX_Micropolitan_Statistical_Area",
+31000US43620,"Sioux Falls, SD","http://en.wikipedia.org/wiki/Sioux_Falls,_SD_Metropolitan_Statistical_Area",
+31000US28060,"Kalispell, MT","http://en.wikipedia.org/wiki/Kalispell,_MT_Micropolitan_Statistical_Area",
+31000US46660,"Valdosta, GA","http://en.wikipedia.org/wiki/Valdosta,_GA_Metropolitan_Statistical_Area",
+31000US40540,"Rock Springs, WY","http://en.wikipedia.org/wiki/Rock_Springs,_WY_Micropolitan_Statistical_Area",
+31000US45860,"Torrington, CT","http://en.wikipedia.org/wiki/Torrington,_CT_Micropolitan_Statistical_Area",408
+31000US47380,"Waco, TX","http://en.wikipedia.org/wiki/Waco,_TX_Metropolitan_Statistical_Area",
+31000US33180,"Middlesborough, KY","http://en.wikipedia.org/wiki/Middlesborough,_KY_Micropolitan_Statistical_Area",
+31000US47180,"Vincennes, IN","http://en.wikipedia.org/wiki/Vincennes,_IN_Micropolitan_Statistical_Area",
+31000US14010,"Bloomington, IL","http://en.wikipedia.org/wiki/Bloomington,_IL_Metropolitan_Statistical_Area",145
+31000US23180,"Frankfort, KY","http://en.wikipedia.org/wiki/Frankfort,_KY_Micropolitan_Statistical_Area",336
+31000US13180,"Beaver Dam, WI","http://en.wikipedia.org/wiki/Beaver_Dam,_WI_Micropolitan_Statistical_Area",376
+31000US38660,"Ponce, PR","http://en.wikipedia.org/wiki/Ponce,_PR_Metropolitan_Statistical_Area",434
+31000US21700,"Eureka-Arcata-Fortuna, CA","http://en.wikipedia.org/wiki/Eureka-Arcata-Fortuna,_CA_Micropolitan_Statistical_Area",
+31000US17740,"Coldwater, MI","http://en.wikipedia.org/wiki/Coldwater,_MI_Micropolitan_Statistical_Area",
+31000US32540,"McAlester, OK","http://en.wikipedia.org/wiki/McAlester,_OK_Micropolitan_Statistical_Area",
+31000US27180,"Jackson, TN","http://en.wikipedia.org/wiki/Jackson,_TN_Metropolitan_Statistical_Area",
+31000US44700,"Stockton-Lodi, CA","http://en.wikipedia.org/wiki/Stockton-Lodi,_CA_Metropolitan_Statistical_Area",488
+31000US49180,"Winston-Salem, NC","http://en.wikipedia.org/wiki/Winston-Salem,_NC_Metropolitan_Statistical_Area",268
+31000US15060,"Brookings, OR","http://en.wikipedia.org/wiki/Brookings,_OR_Micropolitan_Statistical_Area",
+31000US12460,"Bainbridge, GA","http://en.wikipedia.org/wiki/Bainbridge,_GA_Micropolitan_Statistical_Area",533
+31000US27740,"Johnson City, TN","http://en.wikipedia.org/wiki/Johnson_City,_TN_Metropolitan_Statistical_Area",304
+31000US28940,"Knoxville, TN","http://en.wikipedia.org/wiki/Knoxville,_TN_Metropolitan_Statistical_Area",314
+31000US42660,"Seattle-Tacoma-Bellevue, WA","http://en.wikipedia.org/wiki/Seattle-Tacoma-Bellevue,_WA_Metropolitan_Statistical_Area",500
+31000US33780,"Monroe, MI","http://en.wikipedia.org/wiki/Monroe,_MI_Metropolitan_Statistical_Area",220
+31000US47220,"Vineland-Bridgeton, NJ","http://en.wikipedia.org/wiki/Vineland-Bridgeton,_NJ_Metropolitan_Statistical_Area",428
+31000US42140,"Santa Fe, NM","http://en.wikipedia.org/wiki/Santa_Fe,_NM_Metropolitan_Statistical_Area",106
+31000US22100,"Farmington, MO","http://en.wikipedia.org/wiki/Farmington,_MO_Micropolitan_Statistical_Area",476
+31000US42700,"Sebring, FL","http://en.wikipedia.org/wiki/Sebring,_FL_Metropolitan_Statistical_Area",
+31000US20380,"Dunn, NC","http://en.wikipedia.org/wiki/Dunn,_NC_Micropolitan_Statistical_Area",450
+31000US35220,"New Castle, IN","http://en.wikipedia.org/wiki/New_Castle,_IN_Micropolitan_Statistical_Area",294
+31000US14860,"Bridgeport-Stamford-Norwalk, CT","http://en.wikipedia.org/wiki/Bridgeport-Stamford-Norwalk,_CT_Metropolitan_Statistical_Area",408
+31000US33620,"Moberly, MO","http://en.wikipedia.org/wiki/Moberly,_MO_Micropolitan_Statistical_Area",190
+31000US41060,"St. Cloud, MN","http://en.wikipedia.org/wiki/St._Cloud,_MN_Metropolitan_Statistical_Area",378
+31000US31260,"Lufkin, TX","http://en.wikipedia.org/wiki/Lufkin,_TX_Micropolitan_Statistical_Area",
+31000US23820,"Gardnerville Ranchos, NV","http://en.wikipedia.org/wiki/Gardnerville_Ranchos,_NV_Micropolitan_Statistical_Area",456
+31000US26340,"Houghton, MI","http://en.wikipedia.org/wiki/Houghton,_MI_Micropolitan_Statistical_Area",
+31000US29260,"La Grande, OR","http://en.wikipedia.org/wiki/La_Grande,_OR_Micropolitan_Statistical_Area",
+31000US34700,"Muscatine, IA","http://en.wikipedia.org/wiki/Muscatine,_IA_Micropolitan_Statistical_Area",209
+31000US10460,"Alamogordo, NM","http://en.wikipedia.org/wiki/Alamogordo,_NM_Micropolitan_Statistical_Area",
+31000US10500,"Albany, GA","http://en.wikipedia.org/wiki/Albany,_GA_Metropolitan_Statistical_Area",
+31000US23980,"Glasgow, KY","http://en.wikipedia.org/wiki/Glasgow,_KY_Micropolitan_Statistical_Area",150
+31000US32820,"Memphis, TN-MS-AR","http://en.wikipedia.org/wiki/Memphis,_TN-MS-AR_Metropolitan_Statistical_Area",368
+31000US29340,"Lake Charles, LA","http://en.wikipedia.org/wiki/Lake_Charles,_LA_Metropolitan_Statistical_Area",
+31000US26580,"Huntington-Ashland, WV-KY-OH","http://en.wikipedia.org/wiki/Huntington-Ashland,_WV-KY-OH_Metropolitan_Statistical_Area",170
+31000US41180,"St. Louis, MO-IL","http://en.wikipedia.org/wiki/St._Louis,_MO-IL_Metropolitan_Statistical_Area",476
+31000US42220,"Santa Rosa, CA","http://en.wikipedia.org/wiki/Santa_Rosa,_CA_Metropolitan_Statistical_Area",488
+31000US24140,"Goldsboro, NC","http://en.wikipedia.org/wiki/Goldsboro,_NC_Metropolitan_Statistical_Area",
+31000US13700,"Big Spring, TX","http://en.wikipedia.org/wiki/Big_Spring,_TX_Micropolitan_Statistical_Area",
+31000US26460,"Hudson, NY","http://en.wikipedia.org/wiki/Hudson,_NY_Micropolitan_Statistical_Area",104
+31000US44220,"Springfield, OH","http://en.wikipedia.org/wiki/Springfield,_OH_Metropolitan_Statistical_Area",212
+31000US24060,"Glenwood Springs, CO","http://en.wikipedia.org/wiki/Glenwood_Springs,_CO_Micropolitan_Statistical_Area",233
+31000US44140,"Springfield, MA","http://en.wikipedia.org/wiki/Springfield,_MA_Metropolitan_Statistical_Area",521
+31000US24640,"Greenfield Town, MA","http://en.wikipedia.org/wiki/Greenfield_Town,_MA_Micropolitan_Statistical_Area",521
+31000US19000,"Cullowhee, NC","http://en.wikipedia.org/wiki/Cullowhee,_NC_Micropolitan_Statistical_Area",
+31000US33020,"Mexico, MO","http://en.wikipedia.org/wiki/Mexico,_MO_Micropolitan_Statistical_Area",190
+31000US18820,"Crawfordsville, IN","http://en.wikipedia.org/wiki/Crawfordsville,_IN_Micropolitan_Statistical_Area",294
+31000US49460,"Yankton, SD","http://en.wikipedia.org/wiki/Yankton,_SD_Micropolitan_Statistical_Area",
+31000US26780,"Hutchinson, MN","http://en.wikipedia.org/wiki/Hutchinson,_MN_Micropolitan_Statistical_Area",378
+31000US19260,"Danville, VA","http://en.wikipedia.org/wiki/Danville,_VA_Micropolitan_Statistical_Area",
+31000US16260,"Cedar City, UT","http://en.wikipedia.org/wiki/Cedar_City,_UT_Micropolitan_Statistical_Area",
+31000US14340,"Boone, IA","http://en.wikipedia.org/wiki/Boone,_IA_Micropolitan_Statistical_Area",218
+31000US19540,"Decatur, IN","http://en.wikipedia.org/wiki/Decatur,_IN_Micropolitan_Statistical_Area",258
+31000US41780,"Sandusky, OH","http://en.wikipedia.org/wiki/Sandusky,_OH_Micropolitan_Statistical_Area",184
+31000US29860,"Laurel, MS","http://en.wikipedia.org/wiki/Laurel,_MS_Micropolitan_Statistical_Area",
+31000US28500,"Kerrville, TX","http://en.wikipedia.org/wiki/Kerrville,_TX_Micropolitan_Statistical_Area",
+31000US10940,"Alma, MI","http://en.wikipedia.org/wiki/Alma,_MI_Micropolitan_Statistical_Area",394
+31000US11780,"Ashtabula, OH","http://en.wikipedia.org/wiki/Ashtabula,_OH_Micropolitan_Statistical_Area",184
+31000US16300,"Cedar Rapids, IA","http://en.wikipedia.org/wiki/Cedar_Rapids,_IA_Metropolitan_Statistical_Area",168
+31000US39500,"Quincy, IL-MO","http://en.wikipedia.org/wiki/Quincy,_IL-MO_Micropolitan_Statistical_Area",448
+31000US41660,"San Angelo, TX","http://en.wikipedia.org/wiki/San_Angelo,_TX_Metropolitan_Statistical_Area",
+31000US26820,"Idaho Falls, ID","http://en.wikipedia.org/wiki/Idaho_Falls,_ID_Metropolitan_Statistical_Area",292
+31000US14260,"Boise City, ID","http://en.wikipedia.org/wiki/Boise_City,_ID_Metropolitan_Statistical_Area",147
+31000US24980,"Grenada, MS","http://en.wikipedia.org/wiki/Grenada,_MS_Micropolitan_Statistical_Area",
+31000US29460,"Lakeland-Winter Haven, FL","http://en.wikipedia.org/wiki/Lakeland-Winter_Haven,_FL_Metropolitan_Statistical_Area",
+31000US10180,"Abilene, TX","http://en.wikipedia.org/wiki/Abilene,_TX_Metropolitan_Statistical_Area",
+31000US31220,"Ludington, MI","http://en.wikipedia.org/wiki/Ludington,_MI_Micropolitan_Statistical_Area",
+31000US22580,"Forest City, NC","http://en.wikipedia.org/wiki/Forest_City,_NC_Micropolitan_Statistical_Area",
+31000US25100,"Guymon, OK","http://en.wikipedia.org/wiki/Guymon,_OK_Micropolitan_Statistical_Area",
+31000US33980,"Morehead City, NC","http://en.wikipedia.org/wiki/Morehead_City,_NC_Micropolitan_Statistical_Area",404
+31000US18220,"Connersville, IN","http://en.wikipedia.org/wiki/Connersville,_IN_Micropolitan_Statistical_Area",458
+31000US27160,"Jackson, OH","http://en.wikipedia.org/wiki/Jackson,_OH_Micropolitan_Statistical_Area",
+31000US47460,"Walla Walla, WA","http://en.wikipedia.org/wiki/Walla_Walla,_WA_Metropolitan_Statistical_Area",
+31000US41140,"St. Joseph, MO-KS","http://en.wikipedia.org/wiki/St._Joseph,_MO-KS_Metropolitan_Statistical_Area",312
+31000US39020,"Portsmouth, OH","http://en.wikipedia.org/wiki/Portsmouth,_OH_Micropolitan_Statistical_Area",170
+31000US29740,"Las Cruces, NM","http://en.wikipedia.org/wiki/Las_Cruces,_NM_Metropolitan_Statistical_Area",238
+31000US40940,"Safford, AZ","http://en.wikipedia.org/wiki/Safford,_AZ_Micropolitan_Statistical_Area",
+31000US21820,"Fairbanks, AK","http://en.wikipedia.org/wiki/Fairbanks,_AK_Metropolitan_Statistical_Area",
+31000US18380,"Cordele, GA","http://en.wikipedia.org/wiki/Cordele,_GA_Micropolitan_Statistical_Area",
+31000US16460,"Centralia, IL","http://en.wikipedia.org/wiki/Centralia,_IL_Micropolitan_Statistical_Area",476
+31000US43660,"Snyder, TX","http://en.wikipedia.org/wiki/Snyder,_TX_Micropolitan_Statistical_Area",
+31000US30820,"Lock Haven, PA","http://en.wikipedia.org/wiki/Lock_Haven,_PA_Micropolitan_Statistical_Area",558
+31000US43580,"Sioux City, IA-NE-SD","http://en.wikipedia.org/wiki/Sioux_City,_IA-NE-SD_Metropolitan_Statistical_Area",512
+31000US28020,"Kalamazoo-Portage, MI","http://en.wikipedia.org/wiki/Kalamazoo-Portage,_MI_Metropolitan_Statistical_Area",310
+31000US39940,"Rexburg, ID","http://en.wikipedia.org/wiki/Rexburg,_ID_Micropolitan_Statistical_Area",292
+31000US24820,"Greenville, OH","http://en.wikipedia.org/wiki/Greenville,_OH_Micropolitan_Statistical_Area",212
+31000US30300,"Lewiston, ID-WA","http://en.wikipedia.org/wiki/Lewiston,_ID-WA_Metropolitan_Statistical_Area",
+31000US19740,"Denver-Aurora-Lakewood, CO","http://en.wikipedia.org/wiki/Denver-Aurora-Lakewood,_CO_Metropolitan_Statistical_Area",216
+31000US24540,"Greeley, CO","http://en.wikipedia.org/wiki/Greeley,_CO_Metropolitan_Statistical_Area",216
+31000US19940,"Dixon, IL","http://en.wikipedia.org/wiki/Dixon,_IL_Micropolitan_Statistical_Area",221
+31000US19860,"Dickinson, ND","http://en.wikipedia.org/wiki/Dickinson,_ND_Micropolitan_Statistical_Area",
+31000US15500,"Burlington, NC","http://en.wikipedia.org/wiki/Burlington,_NC_Metropolitan_Statistical_Area",268
+31000US17640,"Coco, PR","http://en.wikipedia.org/wiki/Coco,_PR_Micropolitan_Statistical_Area",490
+31000US14580,"Bozeman, MT","http://en.wikipedia.org/wiki/Bozeman,_MT_Micropolitan_Statistical_Area",
+31000US24380,"Grants, NM","http://en.wikipedia.org/wiki/Grants,_NM_Micropolitan_Statistical_Area",106
+31000US21980,"Fallon, NV","http://en.wikipedia.org/wiki/Fallon,_NV_Micropolitan_Statistical_Area",
+31000US40300,"Rochelle, IL","http://en.wikipedia.org/wiki/Rochelle,_IL_Micropolitan_Statistical_Area",466
+31000US14740,"Bremerton-Silverdale, WA","http://en.wikipedia.org/wiki/Bremerton-Silverdale,_WA_Metropolitan_Statistical_Area",500
+31000US40660,"Rome, GA","http://en.wikipedia.org/wiki/Rome,_GA_Metropolitan_Statistical_Area",470
+31000US28340,"Kendallville, IN","http://en.wikipedia.org/wiki/Kendallville,_IN_Micropolitan_Statistical_Area",258
+31000US11100,"Amarillo, TX","http://en.wikipedia.org/wiki/Amarillo,_TX_Metropolitan_Statistical_Area",108
+31000US24260,"Grand Island, NE","http://en.wikipedia.org/wiki/Grand_Island,_NE_Metropolitan_Statistical_Area",
+31000US44620,"Stevens Point, WI","http://en.wikipedia.org/wiki/Stevens_Point,_WI_Micropolitan_Statistical_Area",554
+31000US41540,"Salisbury, MD-DE","http://en.wikipedia.org/wiki/Salisbury,_MD-DE_Metropolitan_Statistical_Area",
+31000US25580,"Hastings, NE","http://en.wikipedia.org/wiki/Hastings,_NE_Micropolitan_Statistical_Area",
+31000US37100,"Oxnard-Thousand Oaks-Ventura, CA","http://en.wikipedia.org/wiki/Oxnard-Thousand_Oaks-Ventura,_CA_Metropolitan_Statistical_Area",348
+31000US46740,"Valley, AL","http://en.wikipedia.org/wiki/Valley,_AL_Micropolitan_Statistical_Area",194
+31000US12780,"Bartlesville, OK","http://en.wikipedia.org/wiki/Bartlesville,_OK_Micropolitan_Statistical_Area",538
+31000US14460,"Boston-Cambridge-Newton, MA-NH","http://en.wikipedia.org/wiki/Boston-Cambridge-Newton,_MA-NH_Metropolitan_Statistical_Area",148
+31000US15980,"Cape Coral-Fort Myers, FL","http://en.wikipedia.org/wiki/Cape_Coral-Fort_Myers,_FL_Metropolitan_Statistical_Area",162
+31000US34100,"Morristown, TN","http://en.wikipedia.org/wiki/Morristown,_TN_Metropolitan_Statistical_Area",314
+31000US13940,"Blackfoot, ID","http://en.wikipedia.org/wiki/Blackfoot,_ID_Micropolitan_Statistical_Area",292
+31000US17020,"Chico, CA","http://en.wikipedia.org/wiki/Chico,_CA_Metropolitan_Statistical_Area",
+31000US13780,"Binghamton, NY","http://en.wikipedia.org/wiki/Binghamton,_NY_Metropolitan_Statistical_Area",
+31000US17780,"College Station-Bryan, TX","http://en.wikipedia.org/wiki/College_Station-Bryan,_TX_Metropolitan_Statistical_Area",
+31000US12420,"Austin-Round Rock, TX","http://en.wikipedia.org/wiki/Austin-Round_Rock,_TX_Metropolitan_Statistical_Area",
+31000US27700,"Jesup, GA","http://en.wikipedia.org/wiki/Jesup,_GA_Micropolitan_Statistical_Area",
+31000US25200,"Hailey, ID","http://en.wikipedia.org/wiki/Hailey,_ID_Micropolitan_Statistical_Area",
+31000US16940,"Cheyenne, WY","http://en.wikipedia.org/wiki/Cheyenne,_WY_Metropolitan_Statistical_Area",
+31000US27060,"Ithaca, NY","http://en.wikipedia.org/wiki/Ithaca,_NY_Metropolitan_Statistical_Area",296
+31000US12580,"Baltimore-Columbia-Towson, MD","http://en.wikipedia.org/wiki/Baltimore-Columbia-Towson,_MD_Metropolitan_Statistical_Area",548
+31000US17140,"Cincinnati, OH-KY-IN","http://en.wikipedia.org/wiki/Cincinnati,_OH-KY-IN_Metropolitan_Statistical_Area",178
+31000US38940,"Port St. Lucie, FL","http://en.wikipedia.org/wiki/Port_St._Lucie,_FL_Metropolitan_Statistical_Area",370
+31000US15180,"Brownsville-Harlingen, TX","http://en.wikipedia.org/wiki/Brownsville-Harlingen,_TX_Metropolitan_Statistical_Area",154
+31000US29900,"Laurinburg, NC","http://en.wikipedia.org/wiki/Laurinburg,_NC_Micropolitan_Statistical_Area",246
+31000US15020,"Brookhaven, MS","http://en.wikipedia.org/wiki/Brookhaven,_MS_Micropolitan_Statistical_Area",298
+31000US16860,"Chattanooga, TN-GA","http://en.wikipedia.org/wiki/Chattanooga,_TN-GA_Metropolitan_Statistical_Area",174
+31000US13300,"Beeville, TX","http://en.wikipedia.org/wiki/Beeville,_TX_Micropolitan_Statistical_Area",
+31000US47620,"Warren, PA","http://en.wikipedia.org/wiki/Warren,_PA_Micropolitan_Statistical_Area",
+31000US45540,"The Villages, FL","http://en.wikipedia.org/wiki/The_Villages,_FL_Metropolitan_Statistical_Area",422
+31000US38920,"Port Lavaca, TX","http://en.wikipedia.org/wiki/Port_Lavaca,_TX_Micropolitan_Statistical_Area",544
+31000US47780,"Washington, IN","http://en.wikipedia.org/wiki/Washington,_IN_Micropolitan_Statistical_Area",
+31000US42740,"Sedalia, MO","http://en.wikipedia.org/wiki/Sedalia,_MO_Micropolitan_Statistical_Area",
+31000US46180,"Tupelo, MS","http://en.wikipedia.org/wiki/Tupelo,_MS_Micropolitan_Statistical_Area",
+31000US12300,"Augusta-Waterville, ME","http://en.wikipedia.org/wiki/Augusta-Waterville,_ME_Micropolitan_Statistical_Area",
+31000US43060,"Shawnee, OK","http://en.wikipedia.org/wiki/Shawnee,_OK_Micropolitan_Statistical_Area",416
+31000US30780,"Little Rock-North Little Rock-Conway, AR","http://en.wikipedia.org/wiki/Little_Rock-North_Little_Rock-Conway,_AR_Metropolitan_Statistical_Area",340
+31000US30140,"Lebanon, PA","http://en.wikipedia.org/wiki/Lebanon,_PA_Metropolitan_Statistical_Area",276
+31000US35260,"New Castle, PA","http://en.wikipedia.org/wiki/New_Castle,_PA_Micropolitan_Statistical_Area",430
+31000US14820,"Brevard, NC","http://en.wikipedia.org/wiki/Brevard,_NC_Micropolitan_Statistical_Area",120
+31000US28820,"Kinston, NC","http://en.wikipedia.org/wiki/Kinston,_NC_Micropolitan_Statistical_Area",
+31000US22220,"Fayetteville-Springdale-Rogers, AR-MO","http://en.wikipedia.org/wiki/Fayetteville-Springdale-Rogers,_AR-MO_Metropolitan_Statistical_Area",
+31000US18460,"Cornelia, GA","http://en.wikipedia.org/wiki/Cornelia,_GA_Micropolitan_Statistical_Area",
+31000US49020,"Winchester, VA-WV","http://en.wikipedia.org/wiki/Winchester,_VA-WV_Metropolitan_Statistical_Area",548
+31000US10780,"Alexandria, LA","http://en.wikipedia.org/wiki/Alexandria,_LA_Metropolitan_Statistical_Area",
+31000US26540,"Huntington, IN","http://en.wikipedia.org/wiki/Huntington,_IN_Micropolitan_Statistical_Area",258
+31000US31080,"Los Angeles-Long Beach-Anaheim, CA","http://en.wikipedia.org/wiki/Los_Angeles-Long_Beach-Anaheim,_CA_Metropolitan_Statistical_Area",348
+31000US34620,"Muncie, IN","http://en.wikipedia.org/wiki/Muncie,_IN_Metropolitan_Statistical_Area",294
+31000US27980,"Kahului-Wailuku-Lahaina, HI","http://en.wikipedia.org/wiki/Kahului-Wailuku-Lahaina,_HI_Metropolitan_Statistical_Area",
+31000US34740,"Muskegon, MI","http://en.wikipedia.org/wiki/Muskegon,_MI_Metropolitan_Statistical_Area",266
+31000US10420,"Akron, OH","http://en.wikipedia.org/wiki/Akron,_OH_Metropolitan_Statistical_Area",184
+31000US23700,"Gallup, NM","http://en.wikipedia.org/wiki/Gallup,_NM_Micropolitan_Statistical_Area",
+31000US20100,"Dover, DE","http://en.wikipedia.org/wiki/Dover,_DE_Metropolitan_Statistical_Area",428
+31000US26420,"Houston-The Woodlands-Sugar Land, TX","http://en.wikipedia.org/wiki/Houston-The_Woodlands-Sugar_Land,_TX_Metropolitan_Statistical_Area",288
+31000US33060,"Miami, OK","http://en.wikipedia.org/wiki/Miami,_OK_Micropolitan_Statistical_Area",309
+31000US18860,"Crescent City, CA","http://en.wikipedia.org/wiki/Crescent_City,_CA_Micropolitan_Statistical_Area",
+31000US49820,"Zapata, TX","http://en.wikipedia.org/wiki/Zapata,_TX_Micropolitan_Statistical_Area",
+31000US22860,"Fort Polk South, LA","http://en.wikipedia.org/wiki/Fort_Polk_South,_LA_Micropolitan_Statistical_Area",217
+31000US13980,"Blacksburg-Christiansburg-Radford, VA","http://en.wikipedia.org/wiki/Blacksburg-Christiansburg-Radford,_VA_Metropolitan_Statistical_Area",
+31000US23380,"Fremont, OH","http://en.wikipedia.org/wiki/Fremont,_OH_Micropolitan_Statistical_Area",
+31000US20580,"Eagle Pass, TX","http://en.wikipedia.org/wiki/Eagle_Pass,_TX_Micropolitan_Statistical_Area",
+31000US35860,"North Vernon, IN","http://en.wikipedia.org/wiki/North_Vernon,_IN_Micropolitan_Statistical_Area",294
+31000US40620,"Rolla, MO","http://en.wikipedia.org/wiki/Rolla,_MO_Micropolitan_Statistical_Area",
+31000US31740,"Manhattan, KS","http://en.wikipedia.org/wiki/Manhattan,_KS_Metropolitan_Statistical_Area",358
+31000US33140,"Michigan City-La Porte, IN","http://en.wikipedia.org/wiki/Michigan_City-La_Porte,_IN_Metropolitan_Statistical_Area",176
+31000US14220,"Bogalusa, LA","http://en.wikipedia.org/wiki/Bogalusa,_LA_Micropolitan_Statistical_Area",406
+31000US26900,"Indianapolis-Carmel-Anderson, IN","http://en.wikipedia.org/wiki/Indianapolis-Carmel-Anderson,_IN_Metropolitan_Statistical_Area",294
+31000US32280,"Martin, TN","http://en.wikipedia.org/wiki/Martin,_TN_Micropolitan_Statistical_Area",362
+31000US35460,"Newport, TN","http://en.wikipedia.org/wiki/Newport,_TN_Micropolitan_Statistical_Area",314
+31000US14380,"Boone, NC","http://en.wikipedia.org/wiki/Boone,_NC_Micropolitan_Statistical_Area",
+31000US19340,"Davenport-Moline-Rock Island, IA-IL","http://en.wikipedia.org/wiki/Davenport-Moline-Rock_Island,_IA-IL_Metropolitan_Statistical_Area",209
+31000US46060,"Tucson, AZ","http://en.wikipedia.org/wiki/Tucson,_AZ_Metropolitan_Statistical_Area",536
+31000US25180,"Hagerstown-Martinsburg, MD-WV","http://en.wikipedia.org/wiki/Hagerstown-Martinsburg,_MD-WV_Metropolitan_Statistical_Area",548
+31000US35660,"Niles-Benton Harbor, MI","http://en.wikipedia.org/wiki/Niles-Benton_Harbor,_MI_Metropolitan_Statistical_Area",515
+31000US22420,"Flint, MI","http://en.wikipedia.org/wiki/Flint,_MI_Metropolitan_Statistical_Area",220
+31000US35500,"Newton, IA","http://en.wikipedia.org/wiki/Newton,_IA_Micropolitan_Statistical_Area",218
+31000US40900,"Sacramento--Roseville--Arden-Arcade, CA","http://en.wikipedia.org/wiki/Sacramento%E2%80%93Roseville%E2%80%93Arden-Arcade,_CA_Metropolitan_Statistical_Area",472
+31000US13820,"Birmingham-Hoover, AL","http://en.wikipedia.org/wiki/Birmingham-Hoover,_AL_Metropolitan_Statistical_Area",142
+31000US30460,"Lexington-Fayette, KY","http://en.wikipedia.org/wiki/Lexington-Fayette,_KY_Metropolitan_Statistical_Area",336
+31000US48220,"Weatherford, OK","http://en.wikipedia.org/wiki/Weatherford,_OK_Micropolitan_Statistical_Area",
+31000US47300,"Visalia-Porterville, CA","http://en.wikipedia.org/wiki/Visalia-Porterville,_CA_Metropolitan_Statistical_Area",546
+31000US11500,"Anniston-Oxford-Jacksonville, AL","http://en.wikipedia.org/wiki/Anniston-Oxford-Jacksonville,_AL_Metropolitan_Statistical_Area",
+31000US29700,"Laredo, TX","http://en.wikipedia.org/wiki/Laredo,_TX_Metropolitan_Statistical_Area",
+31000US45580,"Thomaston, GA","http://en.wikipedia.org/wiki/Thomaston,_GA_Micropolitan_Statistical_Area",122
+31000US18500,"Corning, NY","http://en.wikipedia.org/wiki/Corning,_NY_Micropolitan_Statistical_Area",236
+31000US19760,"DeRidder, LA","http://en.wikipedia.org/wiki/DeRidder,_LA_Micropolitan_Statistical_Area",217
+31000US36380,"Okeechobee, FL","http://en.wikipedia.org/wiki/Okeechobee,_FL_Micropolitan_Statistical_Area",370
+31000US33700,"Modesto, CA","http://en.wikipedia.org/wiki/Modesto,_CA_Metropolitan_Statistical_Area",382
+31000US36140,"Ocean City, NJ","http://en.wikipedia.org/wiki/Ocean_City,_NJ_Metropolitan_Statistical_Area",428
+31000US37080,"Oxford, NC","http://en.wikipedia.org/wiki/Oxford,_NC_Micropolitan_Statistical_Area",450
+31000US18260,"Cookeville, TN","http://en.wikipedia.org/wiki/Cookeville,_TN_Micropolitan_Statistical_Area",
+31000US31020,"Longview, WA","http://en.wikipedia.org/wiki/Longview,_WA_Metropolitan_Statistical_Area",440
+31000US22820,"Fort Morgan, CO","http://en.wikipedia.org/wiki/Fort_Morgan,_CO_Micropolitan_Statistical_Area",
+31000US36620,"Ontario, OR-ID","http://en.wikipedia.org/wiki/Ontario,_OR-ID_Micropolitan_Statistical_Area",147
+31000US33660,"Mobile, AL","http://en.wikipedia.org/wiki/Mobile,_AL_Metropolitan_Statistical_Area",380
+31000US44300,"State College, PA","http://en.wikipedia.org/wiki/State_College,_PA_Metropolitan_Statistical_Area",524
+31000US30860,"Logan, UT-ID","http://en.wikipedia.org/wiki/Logan,_UT-ID_Metropolitan_Statistical_Area",
+31000US32180,"Marshall, MO","http://en.wikipedia.org/wiki/Marshall,_MO_Micropolitan_Statistical_Area",
+31000US24940,"Greenwood, SC","http://en.wikipedia.org/wiki/Greenwood,_SC_Micropolitan_Statistical_Area",273
+31000US16180,"Carson City, NV","http://en.wikipedia.org/wiki/Carson_City,_NV_Metropolitan_Statistical_Area",456
+31000US12020,"Athens-Clarke County, GA","http://en.wikipedia.org/wiki/Athens-Clarke_County,_GA_Metropolitan_Statistical_Area",122
+31000US48700,"Williamsport, PA","http://en.wikipedia.org/wiki/Williamsport,_PA_Metropolitan_Statistical_Area",558
+31000US14700,"Branson, MO","http://en.wikipedia.org/wiki/Branson,_MO_Micropolitan_Statistical_Area",520
+31000US16220,"Casper, WY","http://en.wikipedia.org/wiki/Casper,_WY_Metropolitan_Statistical_Area",
+31000US15620,"Cadillac, MI","http://en.wikipedia.org/wiki/Cadillac,_MI_Micropolitan_Statistical_Area",
+31000US36020,"Oak Harbor, WA","http://en.wikipedia.org/wiki/Oak_Harbor,_WA_Micropolitan_Statistical_Area",500
+31000US25020,"Guayama, PR","http://en.wikipedia.org/wiki/Guayama,_PR_Metropolitan_Statistical_Area",490
+31000US24220,"Grand Forks, ND-MN","http://en.wikipedia.org/wiki/Grand_Forks,_ND-MN_Metropolitan_Statistical_Area",
+31000US49100,"Winona, MN","http://en.wikipedia.org/wiki/Winona,_MN_Micropolitan_Statistical_Area",
+31000US15340,"Bucyrus, OH","http://en.wikipedia.org/wiki/Bucyrus,_OH_Micropolitan_Statistical_Area",360
+31000US31700,"Manchester-Nashua, NH","http://en.wikipedia.org/wiki/Manchester-Nashua,_NH_Metropolitan_Statistical_Area",148
+31000US43700,"Somerset, KY","http://en.wikipedia.org/wiki/Somerset,_KY_Micropolitan_Statistical_Area",
+31000US42820,"Selma, AL","http://en.wikipedia.org/wiki/Selma,_AL_Micropolitan_Statistical_Area",
+31000US12740,"Barre, VT","http://en.wikipedia.org/wiki/Barre,_VT_Micropolitan_Statistical_Area",
+31000US29820,"Las Vegas-Henderson-Paradise, NV","http://en.wikipedia.org/wiki/Las_Vegas-Henderson-Paradise,_NV_Metropolitan_Statistical_Area",332
+31000US32780,"Medford, OR","http://en.wikipedia.org/wiki/Medford,_OR_Metropolitan_Statistical_Area",366
+31000US46140,"Tulsa, OK","http://en.wikipedia.org/wiki/Tulsa,_OK_Metropolitan_Statistical_Area",538
+31000US19220,"Danville, KY","http://en.wikipedia.org/wiki/Danville,_KY_Micropolitan_Statistical_Area",
+31000US37140,"Paducah, KY-IL","http://en.wikipedia.org/wiki/Paducah,_KY-IL_Micropolitan_Statistical_Area",424
+31000US19580,"Defiance, OH","http://en.wikipedia.org/wiki/Defiance,_OH_Micropolitan_Statistical_Area",
+31000US45780,"Toledo, OH","http://en.wikipedia.org/wiki/Toledo,_OH_Metropolitan_Statistical_Area",534
+31000US32220,"Marshall, TX","http://en.wikipedia.org/wiki/Marshall,_TX_Micropolitan_Statistical_Area",346
+31000US12860,"Batavia, NY","http://en.wikipedia.org/wiki/Batavia,_NY_Micropolitan_Statistical_Area",464
+31000US45620,"Thomasville, GA","http://en.wikipedia.org/wiki/Thomasville,_GA_Micropolitan_Statistical_Area",
+31000US31680,"Malvern, AR","http://en.wikipedia.org/wiki/Malvern,_AR_Micropolitan_Statistical_Area",284
+31000US15380,"Buffalo-Cheektowaga-Niagara Falls, NY","http://en.wikipedia.org/wiki/Buffalo-Cheektowaga-Niagara_Falls,_NY_Metropolitan_Statistical_Area",160
+31000US45380,"Taylorville, IL","http://en.wikipedia.org/wiki/Taylorville,_IL_Micropolitan_Statistical_Area",522
+31000US27460,"Jamestown-Dunkirk-Fredonia, NY","http://en.wikipedia.org/wiki/Jamestown-Dunkirk-Fredonia,_NY_Micropolitan_Statistical_Area",
+31000US45900,"Traverse City, MI","http://en.wikipedia.org/wiki/Traverse_City,_MI_Micropolitan_Statistical_Area",
+31000US34060,"Morgantown, WV","http://en.wikipedia.org/wiki/Morgantown,_WV_Metropolitan_Statistical_Area",390
+31000US21780,"Evansville, IN-KY","http://en.wikipedia.org/wiki/Evansville,_IN-KY_Metropolitan_Statistical_Area",
+31000US16820,"Charlottesville, VA","http://en.wikipedia.org/wiki/Charlottesville,_VA_Metropolitan_Statistical_Area",
+31000US13340,"Bellefontaine, OH","http://en.wikipedia.org/wiki/Bellefontaine,_OH_Micropolitan_Statistical_Area",198
+31000US37860,"Pensacola-Ferry Pass-Brent, FL","http://en.wikipedia.org/wiki/Pensacola-Ferry_Pass-Brent,_FL_Metropolitan_Statistical_Area",
+31000US47580,"Warner Robins, GA","http://en.wikipedia.org/wiki/Warner_Robins,_GA_Metropolitan_Statistical_Area",356
+31000US49080,"Winnemucca, NV","http://en.wikipedia.org/wiki/Winnemucca,_NV_Micropolitan_Statistical_Area",
+31000US16980,"Chicago-Naperville-Elgin, IL-IN-WI","http://en.wikipedia.org/wiki/Chicago-Naperville-Elgin,_IL-IN-WI_Metropolitan_Statistical_Area",176
+31000US21140,"Elkhart-Goshen, IN","http://en.wikipedia.org/wiki/Elkhart-Goshen,_IN_Metropolitan_Statistical_Area",515
+31000US25840,"Hermiston-Pendleton, OR","http://en.wikipedia.org/wiki/Hermiston-Pendleton,_OR_Micropolitan_Statistical_Area",
+31000US32500,"Maysville, KY","http://en.wikipedia.org/wiki/Maysville,_KY_Micropolitan_Statistical_Area",178
+31000US40340,"Rochester, MN","http://en.wikipedia.org/wiki/Rochester,_MN_Metropolitan_Statistical_Area",462
+31000US12540,"Bakersfield, CA","http://en.wikipedia.org/wiki/Bakersfield,_CA_Metropolitan_Statistical_Area",
+31000US13460,"Bend-Redmond, OR","http://en.wikipedia.org/wiki/Bend-Redmond,_OR_Metropolitan_Statistical_Area",140
+31000US43220,"Shelton, WA","http://en.wikipedia.org/wiki/Shelton,_WA_Micropolitan_Statistical_Area",500
+31000US24860,"Greenville-Anderson-Mauldin, SC","http://en.wikipedia.org/wiki/Greenville-Anderson-Mauldin,_SC_Metropolitan_Statistical_Area",273
+31000US40580,"Rocky Mount, NC","http://en.wikipedia.org/wiki/Rocky_Mount,_NC_Metropolitan_Statistical_Area",468
+31000US31140,"Louisville/Jefferson County, KY-IN","http://en.wikipedia.org/wiki/Louisville/Jefferson_County,_KY-IN_Metropolitan_Statistical_Area",350
+31000US11640,"Arecibo, PR","http://en.wikipedia.org/wiki/Arecibo,_PR_Metropolitan_Statistical_Area",490
+31000US47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV","http://en.wikipedia.org/wiki/Washington-Arlington-Alexandria,_DC-VA-MD-WV_Metropolitan_Statistical_Area",548
+31000US20140,"Dublin, GA","http://en.wikipedia.org/wiki/Dublin,_GA_Micropolitan_Statistical_Area",
+31000US19620,"Del Rio, TX","http://en.wikipedia.org/wiki/Del_Rio,_TX_Micropolitan_Statistical_Area",
+31000US46500,"Urbana, OH","http://en.wikipedia.org/wiki/Urbana,_OH_Micropolitan_Statistical_Area",212
+31000US47660,"Warrensburg, MO","http://en.wikipedia.org/wiki/Warrensburg,_MO_Micropolitan_Statistical_Area",312
+31000US35300,"New Haven-Milford, CT","http://en.wikipedia.org/wiki/New_Haven-Milford,_CT_Metropolitan_Statistical_Area",408
+31000US34140,"Moscow, ID","http://en.wikipedia.org/wiki/Moscow,_ID_Micropolitan_Statistical_Area",446
+31000US34780,"Muskogee, OK","http://en.wikipedia.org/wiki/Muskogee,_OK_Micropolitan_Statistical_Area",538
+31000US22340,"Fitzgerald, GA","http://en.wikipedia.org/wiki/Fitzgerald,_GA_Micropolitan_Statistical_Area",
+31000US20780,"Edwards, CO","http://en.wikipedia.org/wiki/Edwards,_CO_Micropolitan_Statistical_Area",233
+31000US34540,"Mount Vernon, OH","http://en.wikipedia.org/wiki/Mount_Vernon,_OH_Micropolitan_Statistical_Area",198
+31000US23580,"Gainesville, GA","http://en.wikipedia.org/wiki/Gainesville,_GA_Metropolitan_Statistical_Area",122
+31000US26500,"Huntingdon, PA","http://en.wikipedia.org/wiki/Huntingdon,_PA_Micropolitan_Statistical_Area",
+31000US34660,"Murray, KY","http://en.wikipedia.org/wiki/Murray,_KY_Micropolitan_Statistical_Area",
+31000US20660,"Easton, MD","http://en.wikipedia.org/wiki/Easton,_MD_Micropolitan_Statistical_Area",548
+31000US23620,"Gainesville, TX","http://en.wikipedia.org/wiki/Gainesville,_TX_Micropolitan_Statistical_Area",206
+31000US24020,"Glens Falls, NY","http://en.wikipedia.org/wiki/Glens_Falls,_NY_Metropolitan_Statistical_Area",104
+31000US33100,"Miami-Fort Lauderdale-West Palm Beach, FL","http://en.wikipedia.org/wiki/Miami-Fort_Lauderdale-West_Palm_Beach,_FL_Metropolitan_Statistical_Area",370
+31000US30880,"Logan, WV","http://en.wikipedia.org/wiki/Logan,_WV_Micropolitan_Statistical_Area",170
+31000US35820,"North Platte, NE","http://en.wikipedia.org/wiki/North_Platte,_NE_Micropolitan_Statistical_Area",
+31000US42620,"Searcy, AR","http://en.wikipedia.org/wiki/Searcy,_AR_Micropolitan_Statistical_Area",340
+31000US17580,"Clovis, NM","http://en.wikipedia.org/wiki/Clovis,_NM_Micropolitan_Statistical_Area",188
+31000US32260,"Marshalltown, IA","http://en.wikipedia.org/wiki/Marshalltown,_IA_Micropolitan_Statistical_Area",
+31000US38220,"Pine Bluff, AR","http://en.wikipedia.org/wiki/Pine_Bluff,_AR_Metropolitan_Statistical_Area",340
+31000US21180,"Elkins, WV","http://en.wikipedia.org/wiki/Elkins,_WV_Micropolitan_Statistical_Area",
+31000US38340,"Pittsfield, MA","http://en.wikipedia.org/wiki/Pittsfield,_MA_Metropolitan_Statistical_Area",
+31000US35940,"Norwalk, OH","http://en.wikipedia.org/wiki/Norwalk,_OH_Micropolitan_Statistical_Area",184
+31000US45520,"The Dalles, OR","http://en.wikipedia.org/wiki/The_Dalles,_OR_Micropolitan_Statistical_Area",
+31000US19820,"Detroit-Warren-Dearborn, MI","http://en.wikipedia.org/wiki/Detroit-Warren-Dearborn,_MI_Metropolitan_Statistical_Area",220
