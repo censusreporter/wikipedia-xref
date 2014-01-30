@@ -21,8 +21,8 @@ from urllib import quote_plus
 import re
 import os.path
 
-CBSA_OUTPUT_FILE = "cbsas_with_links.csv"
-CSA_OUTPUT_FILE = "csas_with_links.csv"
+CBSA_OUTPUT_FILE = "../output/cbsas_with_links.csv"
+CSA_OUTPUT_FILE = "../output/csas_with_links.csv"
 
 WP_CBSA_LIST = 'http://en.wikipedia.org/wiki/List_of_Core_Based_Statistical_Areas'
 
