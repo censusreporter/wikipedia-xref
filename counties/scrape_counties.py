@@ -66,7 +66,7 @@ def make_wp_dict():
 def produce_xref():
     in_reader = unicodecsv.DictReader(open("Gaz_counties_national.txt"),delimiter="\t", encoding='latin-1')
     fields = ['full_geoid','state','name','wiki_url']
-    out_writer = unicodecsv.DictWriter(open("counties_with_links.csv","w"),fields, encoding='utf-8')
+    out_writer = unicodecsv.DictWriter(open("../output/counties_with_links.csv","w"),fields, encoding='utf-8')
     out_writer.writerow(dict(zip(fields,fields)))
 
     wp_dict = make_wp_dict()
