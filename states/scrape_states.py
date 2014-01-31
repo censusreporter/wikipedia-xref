@@ -23,7 +23,7 @@ def write_state_file():
     response = s.urlopen(STATE_LIST)
     doc = fromstring(response)
     table = doc.find_class('wikitable')[0]
-    writer = unicodecsv.writer(open('state_wiki_data.csv', 'w'))
+    writer = unicodecsv.writer(open('../output/states_with_links.csv', 'w'))
     writer.writerow(['full_geoid', 'wiki_url'])
     for row in table.findall('tr')[1:]:
         fips, url = parse_state_row(row)
