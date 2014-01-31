@@ -17,7 +17,7 @@ CD_LIST = 'https://en.wikipedia.org/wiki/List_of_United_States_congressional_dis
 OUTLIERS = ['District of Columbia', 'Puerto Rico']
 
 def get_cd_page():
-	writer = unicodecsv.writer(open('cd_wiki_data.csv', 'w'))
+	writer = unicodecsv.writer(open('../output/cd_with_links.csv', 'w'))
 	writer.writerow(['full_geoid', 'wiki_url'])
 	response = s.urlopen(CD_LIST)
 	doc = fromstring(response)
