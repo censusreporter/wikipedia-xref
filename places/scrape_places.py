@@ -24,7 +24,7 @@ MANUAL_OVERRIDE = {
     '16000US1150000': 'https://en.wikipedia.org/wiki/Washington,_D.C.',
 }
 
-OUTPUT_FILE = "places_with_links.csv"
+OUTPUT_FILE = "../output/places_with_links.csv"
 
 from scrapelib import Scraper, FileCache, HTTPError
 BASE_URL = 'https://en.wikipedia.org/wiki/'
